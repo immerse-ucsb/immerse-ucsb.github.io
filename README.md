@@ -2,7 +2,15 @@
 
 ## A GH pages repository to host all tutorial scripts as websites for sharing! 
 
-> (i.e., `Presentation Slides`/`R`/`Rmarkdown`/`MplusAutomation`)
+> i.e., `Presentation Slides`, `R`, `Rmarkdown`, `MplusAutomation`
+
+- - -
+
+##### Introduction:
+
+1. [Why should I use `MplusAutomation`?](https://immerse-ucsb.github.io/Why-MplusAutomation.pdf)
+
+2. [How fast is `MplusAutomation`? A quick Latent Class Analysis from Start to Finish!](https://immerse-ucsb.github.io/Quick-LCA.pdf)
 
 - - -
 
