@@ -20,4 +20,6 @@
 
 2. [3-Step ML Method with `MplusAutomation`](https://immerse-ucsb.github.io/3step.pdf)
 
+3. [Interpret & Summarize Mixture Models with Auxiliary Variables: Distal & Moderation Model Example](https://immerse-ucsb.github.io/interpret-aux-vars.pdf)
+
 - - -
