@@ -12,6 +12,14 @@
 
 2. [How fast is `MplusAutomation`? A quick Latent Class Analysis from Start to Finish!](https://immerse-ucsb.github.io/Quick-LCA.pdf)
 
+3. [Introduction to R and RStudio](https://immerse-ucsb.github.io/intro_to_rstudio.pdf)
+
+- - -
+
+##### Latent Class Analysis:
+
+1. [Latent Class Enumeration with Fit Information, Probability Plots, Classification Diagnostics, & Response Patterns](https://immerse-ucsb.github.io/lca_enum.pdf)
+
 - - -
 
 ##### Auxiliary Variable Integration :
