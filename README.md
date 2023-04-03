@@ -20,6 +20,8 @@
 
 1. [Latent Class Enumeration with Fit Information, Probability Plots, Classification Diagnostics, & Response Patterns](https://immerse-ucsb.github.io/lca_enum.pdf)
 
+2. [Latent Profile Enumeration using `tidyLPA` and `MplusAutomation` with Fit Information and Profile Plots](https://immerse-ucsb.github.io/lpa_enum.pdf)
+
 - - -
 
 ##### Auxiliary Variable Integration :
