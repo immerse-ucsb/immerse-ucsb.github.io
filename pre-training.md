@@ -1,35 +1,79 @@
-# IMMERSE Tutorial Materials: 
+<h1><p align="center">IMMERSE Pre-training Materials</h1></p>
 
-## A GH pages repository to host all tutorial scripts as websites for sharing! 
+------------------------------------------------------------------------
 
-> i.e., `Presentation Slides`, `R`, `Rmarkdown`, `MplusAutomation`
+<p align="center">
+IMMERSE Project: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators
+<img src="images/immerse_hex_small.png" width="300"/>
+</p>
 
-- - -
+------------------------------------------------------------------------
 
-##### Introduction:
+<p align="center">
+The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (IMMERSE) is an IES funded training grant (R305B220021) to support education scholars in integrating mixture modeling into their research.
+<img src="images/IESNewLogo.jpg" width="300"/>
+</p>
 
-1. [Why should I use `MplusAutomation`?](https://immerse-ucsb.github.io/Why-MplusAutomation.pdf)
+------------------------------------------------------------------------
 
-2. [How fast is `MplusAutomation`? A quick Latent Class Analysis from Start to Finish!](https://immerse-ucsb.github.io/Quick-LCA.pdf)
+### Day 1: Introductions, training goals, introduction to data science
 
-3. [Introduction to R and RStudio](https://immerse-ucsb.github.io/intro_to_rstudio.pdf)
+Synchronous activity (May 19, 2023):
 
-- - -
+Asynchronous activity:
 
-##### Latent Class Analysis:
+------------------------------------------------------------------------
 
-1. [Latent Class Enumeration with Fit Information, Probability Plots, Classification Diagnostics, & Response Patterns](https://immerse-ucsb.github.io/lca_enum.pdf)
+### Day 2: Introduction to Mplus and MplusAutomation in R
 
-2. [Latent Profile Enumeration using `tidyLPA` and `MplusAutomation` with Fit Information and Profile Plots](https://immerse-ucsb.github.io/lpa_enum.pdf)
+Synchronous activity (May 24, 2023):
 
-- - -
+1.  [Introduction to MplusAutomation](https://github.com/immerse-ucsb/intro-to-mplusautomation)
 
-##### Auxiliary Variable Integration :
+Asynchronous activity:
 
-1. [BCH Method (2-Step) with `MplusAutomation`](https://immerse-ucsb.github.io/BCH.pdf)
+1.  [How to make your R markdown pretty!](https://www.youtube.com/watch?v=v048ru5v0BE&ab_channel=JosiahParry)
 
-2. [3-Step ML Method with `MplusAutomation`](https://immerse-ucsb.github.io/3step.pdf)
+------------------------------------------------------------------------
 
-3. [Interpret & Summarize Mixture Models with Auxiliary Variables: Distal & Moderation Model Example](https://immerse-ucsb.github.io/interpet-aux-vars.pdf)
+### Day 3: Data wrangling, exploration and visualization
 
-- - -
+Synchronous activity (May 26, 2023):
+
+Asynchronous activity:
+
+------------------------------------------------------------------------
+
+### Day 4: Collaborative, reproducible workflows with R, RStudio, git and GitHub
+
+Synchronous activity (May 31, 2023):
+
+Asynchronous activity:
+
+------------------------------------------------------------------------
+
+### Day 5: Data science principles: data organization, storage, sharing, and code
+
+Synchronous activity (June 2, 2023):
+
+Asynchronous activity:
+
+------------------------------------------------------------------------
+
+Helpful Links:
+
+-   Please [visit our website](https://immerse.education.ucsb.edu/) to learn more.
+
+-   Visit our [GitHub](https://github.com/immerse-ucsb) account to access all the IMMERSE materials.
+
+-   Follow us on [Twitter](https://twitter.com/IMMERSE_UCSB)!
+
+How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE Pre-Training Workshop (IES No. 305B220021). Institute of Education Sciences. https://immerse-ucsb.github.io/pre-training
+
+------------------------------------------------------------------------
+
+![](images/UCSB_Navy_mark.png)
+
+
+
+
