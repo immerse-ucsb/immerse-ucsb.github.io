@@ -1,27 +1,19 @@
 <h1>
-
 <p align="center">
-
 IMMERSE Pre-training Materials
-
+</p>
 </h1>
 
-</p>
-
 ------------------------------------------------------------------------
 
 <p align="center">
-
 <img src="images/immerse_hex_small.png" width="300"/> <img src="images/IESNewLogo.jpg" width="300"/>
-
 </p>
 
 ------------------------------------------------------------------------
 
 <p align="center">
-
 The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (IMMERSE) is an IES funded training grant (R305B220021) to support education scholars in integrating mixture modeling into their research.
-
 </p>
 
 ------------------------------------------------------------------------
@@ -29,6 +21,10 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 ### Day 1 (May 19, 2023): Introductions, training goals, introduction to data science
 
 Learning Outcomes:
+
+1.  blah blah
+
+2.  blah blah
 
 Synchronous Activity:
 
@@ -62,6 +58,10 @@ Asynchronous Activity:
 
 Learning Outcomes:
 
+1.  blah blah
+
+2.  blah blah
+
 Synchronous Activity:
 
 Asynchronous Activity:
@@ -72,6 +72,10 @@ Asynchronous Activity:
 
 Learning Outcomes:
 
+1.  blah blah
+
+2.  blah blah
+
 Synchronous Activity:
 
 Asynchronous Activity:
@@ -81,6 +85,10 @@ Asynchronous Activity:
 ### Day 5 (June 2, 2023): Data science principles: data organization, storage, sharing, and code
 
 Learning Outcomes:
+
+1.  blah blah
+
+2.  blah blah
 
 Synchronous Activity:
 
