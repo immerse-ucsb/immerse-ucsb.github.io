@@ -47,9 +47,9 @@ Asynchronous Activity:
 
 Learning Outcomes:
 
-1.  The workshop will walkthrough how to use Mplus software, learn the basic skeleton of an Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
+1.  Using Mplus software, fellows will learn the basic skeleton of an Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
 
-2.  Fellows will understand the the use of the `MplusAutomation` package and will use R to run an identical descriptive statistics.
+2.  Using the `MplusAutomation` package, fellows will will be able to run descriptive statistics in R.
 
 3.  This workshop will cover the creation of R-projects and R markdowns and discuss the benefits of organization of the R workflow.
 
