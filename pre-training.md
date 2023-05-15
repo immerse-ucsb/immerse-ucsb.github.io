@@ -1,8 +1,11 @@
+<title> IMMERSE Pre-Training Materials </title>
 <h1>
 
 <p align="center">
 
-IMMERSE Pre-training Materials
+
+IMMERSE Pre-Training Materials
+
 
 </p>
 
