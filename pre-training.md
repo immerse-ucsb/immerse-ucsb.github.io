@@ -67,7 +67,7 @@ Learning Outcomes:
 Preparation:
 
 -   Work through the [Intro to R and R Studio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and R Studio.
--   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022])](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
+-   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 Synchronous Activity:
 
@@ -128,7 +128,9 @@ Synchronous Activity:
 
 Asynchronous Activity:
 
--   TBD (build a personal website using R/RStudio and GitHub?)
+-   GitHub Pages - build a website using R/RStudio and GitHub!
+    -   Personal site (Distill or Quarto)
+    -   Course site (from template)
 
 ------------------------------------------------------------------------
 
