@@ -1,15 +1,5 @@
-<title> IMMERSE Pre-Training Materials </title>
-<h1>
+% IMMERSE Pre-Training Materials
 
-<p align="center">
-
-
-IMMERSE Pre-Training Materials
-
-
-</p>
-
-</h1>
 
 ------------------------------------------------------------------------
 
