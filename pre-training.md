@@ -29,7 +29,7 @@ Learning Outcomes:
 
 Synchronous Activity:
 
-* [Day 1](https://docs.google.com/presentation/d/1kW-slkQ04eiOzlixuAf_WFRq0XAB2CkyC4XoYL4c0h4/edit?usp=sharing)
+* Slide deck will be linked here
 
 
 Asynchronous Activity:
