@@ -23,13 +23,20 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 Learning Outcomes:
 
-1.  blah blah
+1. Fellows will be able to create draft equity-focused research questions that can be addressed with mixture modeling in the upcoming year.
 
-2.  blah blah
+2. Fellows will be able to identify how the IMMERSE training goals and opportunities can help them to apply mixture modeling training their research questions
 
 Synchronous Activity:
 
+* [Day 1](https://docs.google.com/presentation/d/1kW-slkQ04eiOzlixuAf_WFRq0XAB2CkyC4XoYL4c0h4/edit?usp=sharing)
+
+
 Asynchronous Activity:
+
+* In the [Day 1 slides](https://docs.google.com/presentation/d/1kW-slkQ04eiOzlixuAf_WFRq0XAB2CkyC4XoYL4c0h4/edit?usp=sharing), find you slide and update your research questions
+
+* Read at least one of the articles from the 5 experts who have used mixture modeling and write a comment in the Day 1 slides (add link and slide number) about something you noticed and something you are wondering about mixture modeling. 
 
 ------------------------------------------------------------------------
 
