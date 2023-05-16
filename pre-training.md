@@ -34,7 +34,7 @@ Synchronous Activity:
 
 Asynchronous Activity:
 
-* In the [Day 1 slides](https://docs.google.com/presentation/d/1kW-slkQ04eiOzlixuAf_WFRq0XAB2CkyC4XoYL4c0h4/edit?usp=sharing), find you slide and update your research questions
+* In the Day 1 slides, find you slide and update your research questions
 
 * Read at least one of the articles from the 5 experts who have used mixture modeling and write a comment in the Day 1 slides (add link and slide number) about something you noticed and something you are wondering about mixture modeling. 
 
