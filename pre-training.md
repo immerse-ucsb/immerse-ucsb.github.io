@@ -42,6 +42,10 @@ Asynchronous Activity:
 
 ### Day 2 (May 24, 2023): Introduction to Mplus and MplusAutomation in R
 
+Prepartion:
+
+- Make sure you have Mplus, R, and RStudio downloaded and ready to go!
+
 Learning Outcomes:
 
 1.  Using Mplus software, fellows will learn the basic skeleton of an Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
