@@ -30,7 +30,7 @@ Learning Outcomes:
 
 Synchronous Activity:
 
-* Slide deck will be linked here
+* Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 1.pdf)
 * [Workspace](https://docs.google.com/presentation/d/1kRnbRT04Tgq8cvgdlDP-bPMG2InfkZZtLpsIJYAgPzI/edit?usp=sharing)
 
 Asynchronous Activity:
