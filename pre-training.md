@@ -66,6 +66,8 @@ Asynchronous Activity:
 -   Complete Part 3 of "Introduction to MplusAutomation": Descriptive Statistics
 -   [How to make your R markdown pretty!](https://www.youtube.com/watch?v=v048ru5v0BE&ab_channel=JosiahParry)
 
+[Anonymous Feedback Survey](https://forms.gle/saJsVUmARVeB2j638)
+
 ------------------------------------------------------------------------
 
 ### Day 3 (May 26, 2023): Data wrangling, exploration and visualization
