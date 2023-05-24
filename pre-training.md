@@ -60,6 +60,7 @@ Learning Outcomes:
 Synchronous Activity:
 
 -   [Introduction to MplusAutomation](https://github.com/immerse-ucsb/intro-to-mplusautomation)
+-   Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 2.pdf)
 
 Asynchronous Activity:
 
