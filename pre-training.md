@@ -110,6 +110,7 @@ Preparation:
 -   [Sign up for a GitHub account, and set up Git on your computer](https://docs.google.com/document/d/1Yc47HH0OiQUs0DR9rz4xoUYCtyCy6ddf9vye8BIN2Oc/edit?usp=share_link)
 -   [Link RStudio and Github, and set up a personal access token PAT](https://docs.google.com/document/u/0/d/1pDv-hoeJxxYFbvp6vX2ZvTgxDIAYGfj8UTSYIkLS0Zs/edit)
 -   Read ["Better Science in Less Time" (Lowndes et al. 2017)](https://drive.google.com/file/d/1b-6r919k35kDPnc4iyNzdcnVtNz0yEwE/view?usp=share_link). Table 1 provides a good overview of tools available to improve open data science.
+-   Read ["Good enough practices in scientific computing" (Wilson et al. 2017)](https://drive.google.com/file/d/1Xv5lYKDC6tqd73P_3Bmppq5-5PtLRHii/view?usp=sharing)
 
 Synchronous Activity:
 
@@ -136,7 +137,7 @@ Preparation:
 
 Synchronous Activity:
 
--   Practice with GitHub and RStudio to create repositories
+-   Practice with GitHub and RStudio to create project repositories
 -   Working in pairs, practice techniques to safely collaborate on a script, then create and resolve a merge conflict
 -   Work with git in the Terminal/command line
 -   Discuss features of GitHub to effectively collaborate and communicate your science
