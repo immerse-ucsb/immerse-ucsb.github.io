@@ -297,17 +297,23 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+content: "";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "\e258";
-font-family: 'Glyphicons Halflings';
+content: "";
 border: none;
+}
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "";
+font-family: 'Glyphicons Halflings';
+display: inline-block;
+padding: 10px;
+border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -504,6 +510,8 @@ RStudio and Github, and set up a personal access token PAT</a></li>
 <li>Read <a href="https://drive.google.com/file/d/1b-6r919k35kDPnc4iyNzdcnVtNz0yEwE/view?usp=share_link">“Better
 Science in Less Time” (Lowndes et al. 2017)</a>. Table 1 provides a good
 overview of tools available to improve open data science.</li>
+<li>Read <a href="https://drive.google.com/file/d/1Xv5lYKDC6tqd73P_3Bmppq5-5PtLRHii/view?usp=sharing">“Good
+enough practices in scientific computing” (Wilson et al. 2017)</a></li>
 </ul>
 <p>Synchronous Activity:</p>
 <ul>
@@ -552,7 +560,7 @@ session.</li>
 </ul>
 <p>Synchronous Activity:</p>
 <ul>
-<li>Practice with GitHub and RStudio to create repositories</li>
+<li>Practice with GitHub and RStudio to create project repositories</li>
 <li>Working in pairs, practice techniques to safely collaborate on a
 script, then create and resolve a merge conflict</li>
 <li>Work with git in the Terminal/command line</li>
