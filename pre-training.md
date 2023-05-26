@@ -39,6 +39,8 @@ Asynchronous Activity:
 
 * Activity 2: Create a draft of your research goals (starting on slide 20 of the [Workspace](https://docs.google.com/presentation/d/1kRnbRT04Tgq8cvgdlDP-bPMG2InfkZZtLpsIJYAgPzI/edit?usp=sharing) slides]
 
+[Pre-Training Day 1 Video](https://drive.google.com/file/d/13Ek7COzK6K9KbsCWrBxNrBcoViS860g_/view?usp=sharing)
+
 ------------------------------------------------------------------------
 
 ### Day 2 (May 24, 2023): Introduction to Mplus and MplusAutomation in R
@@ -68,6 +70,8 @@ Asynchronous Activity:
 -   [How to make your R markdown pretty!](https://www.youtube.com/watch?v=v048ru5v0BE&ab_channel=JosiahParry)
 
 [Anonymous Feedback Survey](https://forms.gle/saJsVUmARVeB2j638)
+
+[Pre-Training Day 2 Video](https://drive.google.com/file/d/1DBSvdP0isqTriTLCl2WD0TBWFfB0pO92/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
