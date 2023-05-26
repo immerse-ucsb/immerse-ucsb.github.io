@@ -90,8 +90,8 @@ Preparation:
 
 Synchronous Activity:
 
--   Discussion of benefits and challenges of coding, reproducible research, and collaboration
--   Live coding: data wrangling with categorical data __[.Rmd](https://drive.google.com/file/d/1b2TWYCpviBxvwEKTGE_jCZQcMI4xy3-S/view?usp=drive_link)__ |  __[.pdf](https://drive.google.com/file/d/1Oui-iDov81cVFf31dwSQErmElLAdL2l7/view?usp=drive_link)__
+-   Discussion of benefits and challenges of coding, reproducible research, and collaboration (__[Google slides](https://docs.google.com/presentation/d/1T8RJgWfpQgzCnsypcQu8DNHy2edFid3TJCQ51ZFElvQ/edit?usp=drive_link)__)
+-   Live coding: data wrangling with categorical data (__[.Rmd](https://drive.google.com/file/d/1b2TWYCpviBxvwEKTGE_jCZQcMI4xy3-S/view?usp=drive_link)__ |  __[.pdf](https://drive.google.com/file/d/1Oui-iDov81cVFf31dwSQErmElLAdL2l7/view?usp=drive_link)__)
     -   [Set up RStudio workspace in global options](https://docs.google.com/document/d/1xnIJ8maW_yHn-vYFba6AhULMMLplIGjJQuIM2iqmpDw/edit#heading=h.k5zbnx9cqbgj)
 
 Asynchronous Activity:
