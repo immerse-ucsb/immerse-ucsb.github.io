@@ -90,14 +90,14 @@ Preparation:
 
 Synchronous Activity:
 
--   Discussion of benefits and challenges of coding, reproducible research, and collaboration
--   Live coding: data wrangling with categorical data
+-   Discussion of benefits and challenges of coding, reproducible research, and collaboration (__[Google slides](https://docs.google.com/presentation/d/1T8RJgWfpQgzCnsypcQu8DNHy2edFid3TJCQ51ZFElvQ/edit?usp=drive_link)__)
+-   Live coding: data wrangling with categorical data (__[.Rmd](https://drive.google.com/file/d/1b2TWYCpviBxvwEKTGE_jCZQcMI4xy3-S/view?usp=drive_link)__ |  __[.pdf](https://drive.google.com/file/d/1Oui-iDov81cVFf31dwSQErmElLAdL2l7/view?usp=drive_link)__)
     -   [Set up RStudio workspace in global options](https://docs.google.com/document/d/1xnIJ8maW_yHn-vYFba6AhULMMLplIGjJQuIM2iqmpDw/edit#heading=h.k5zbnx9cqbgj)
 
 Asynchronous Activity:
 
 -   [Homework, day 3](https://docs.google.com/document/d/114q-eMuRIaFi4eN0dyRF6v0HiES7VFZVGvNn8E8jNMA/edit#)
--   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/11EJTE3XNZjB3deuwLeFf2c65c08cZ_Dg/view?usp=share_link): Download the zip, follow directions in part two of the homework document.
+    -   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/1qvNTKrB0eGwprR6sYt9pUeFbB40sl9RE/view?usp=drive_link): Download the zip, follow directions in part three of the homework document.
 
 [Pre-Training Day 3 Video](https://drive.google.com/file/d/1iBsERwPVB0dzygkZoWhSRK-loh_JyEZO/view?usp=sharing)
 
