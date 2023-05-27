@@ -99,6 +99,8 @@ Asynchronous Activity:
 -   [Homework, day 3](https://docs.google.com/document/d/114q-eMuRIaFi4eN0dyRF6v0HiES7VFZVGvNn8E8jNMA/edit#)
 -   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/11EJTE3XNZjB3deuwLeFf2c65c08cZ_Dg/view?usp=share_link): Download the zip, follow directions in part two of the homework document.
 
+[Pre-Training Day 3 Video](https://drive.google.com/file/d/1iBsERwPVB0dzygkZoWhSRK-loh_JyEZO/view?usp=sharing)
+
 ------------------------------------------------------------------------
 
 ### Day 4 (May 31, 2023): Collaborative, reproducible workflows with R, RStudio, git and GitHub
