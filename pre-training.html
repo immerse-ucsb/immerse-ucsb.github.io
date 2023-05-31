@@ -297,23 +297,17 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before {
-content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "\e259";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "";
-border: none;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "";
+content: "\e258";
 font-family: 'Glyphicons Halflings';
-display: inline-block;
-padding: 10px;
-border-right: 1px solid #ddd;
+border: none;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -492,6 +486,8 @@ data wrangling: self-guided tour</a>: Download the zip, follow
 directions in part three of the homework document.</li>
 </ul></li>
 </ul>
+<p><a href="https://drive.google.com/file/d/1iBsERwPVB0dzygkZoWhSRK-loh_JyEZO/view?usp=sharing">Pre-Training
+Day 3 Video</a></p>
 <hr />
 </div>
 <div id="day-4-may-31-2023-collaborative-reproducible-workflows-with-r-rstudio-git-and-github" class="section level3">
