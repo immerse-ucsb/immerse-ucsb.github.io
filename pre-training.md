@@ -127,6 +127,9 @@ Asynchronous Activity:
 
 -   [Additional text wrangling: self-guided tour](https://github.com/oharac/text_workshop): Fork then clone this repository to your computer. Code along with the .HTML files in numeric order, or run line by line through the .Rmd scripts, as you prefer. Note, some of `1_stringr_tutorial` will be duplicated in the Day 4 live coding session, but this script contains additional details and more complex wrangling cases.
 
+
+[Anonymous Feedback Survey](https://forms.gle/kxgeaK8A9CQvwgZP7)
+
 ------------------------------------------------------------------------
 
 ### Day 5 (June 2, 2023): Data science principles: data organization, storage, sharing, and code
