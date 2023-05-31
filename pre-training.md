@@ -88,13 +88,13 @@ Preparation:
 -   Work through the [Intro to R and R Studio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and R Studio.
 -   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
-Synchronous Activity:
+Synchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3_wrangling_practice)):
 
 -   Discussion of benefits and challenges of coding, reproducible research, and collaboration (__[Google slides](https://docs.google.com/presentation/d/1T8RJgWfpQgzCnsypcQu8DNHy2edFid3TJCQ51ZFElvQ/edit?usp=drive_link)__)
 -   Live coding: data wrangling with categorical data (__[.Rmd](https://drive.google.com/file/d/1b2TWYCpviBxvwEKTGE_jCZQcMI4xy3-S/view?usp=drive_link)__ |  __[.pdf](https://drive.google.com/file/d/1Oui-iDov81cVFf31dwSQErmElLAdL2l7/view?usp=drive_link)__)
     -   [Set up RStudio workspace in global options](https://docs.google.com/document/d/1xnIJ8maW_yHn-vYFba6AhULMMLplIGjJQuIM2iqmpDw/edit#heading=h.k5zbnx9cqbgj)
 
-Asynchronous Activity:
+Asynchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3_more_wrangling)):
 
 -   [Homework, day 3](https://docs.google.com/document/d/114q-eMuRIaFi4eN0dyRF6v0HiES7VFZVGvNn8E8jNMA/edit#)
     -   [Additional data wrangling: self-guided tour](https://drive.google.com/file/d/1qvNTKrB0eGwprR6sYt9pUeFbB40sl9RE/view?usp=drive_link): Download the zip, follow directions in part three of the homework document.
@@ -116,7 +116,7 @@ Preparation:
 -   Read ["Better Science in Less Time" (Lowndes et al. 2017)](https://drive.google.com/file/d/1b-6r919k35kDPnc4iyNzdcnVtNz0yEwE/view?usp=share_link). Table 1 provides a good overview of tools available to improve open data science.
 -   Read ["Good enough practices in scientific computing" (Wilson et al. 2017)](https://drive.google.com/file/d/1Xv5lYKDC6tqd73P_3Bmppq5-5PtLRHii/view?usp=sharing)
 
-Synchronous Activity:
+Synchronous Activity ([Github repo here](https://github.com/oharac/immerse_day4_iter_and_fxns)):
 
 -   [Live coding: loops and functions; text wrangling](https://github.com/oharac/immerse_day4_iter_and_fxns). We will also practice with GitHub!
 -   Continue discussion on benefits and challenges of reproducible, collaborative, open data science.
