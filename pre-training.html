@@ -297,17 +297,23 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+content: "";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "\e258";
-font-family: 'Glyphicons Halflings';
+content: "";
 border: none;
+}
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "";
+font-family: 'Glyphicons Halflings';
+display: inline-block;
+padding: 10px;
+border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -565,15 +571,18 @@ session.</li>
 </ul>
 <p>Synchronous Activity:</p>
 <ul>
-<li>Practice with GitHub and RStudio to create project repositories</li>
-<li>Working in pairs, practice techniques to safely collaborate on a
-script, then create and resolve a merge conflict</li>
-<li>Work with git in the Terminal/command line</li>
-<li>Discuss features of GitHub to effectively collaborate and
-communicate your science</li>
+<li>Recaps of ideas from pre-training days 1-4</li>
+<li>Reflections and discussions on challenges of coding,
+reproducibility, and how to effectively implement data science
+principles</li>
 </ul>
 <p>Asynchronous Activity:</p>
 <ul>
+<li>Watch (and follow along with) <a href="https://ucsb.box.com/s/6ud0sdkt7g0zk4k59d77356960haaabn">video
+walkthrough of Git/GitHub workflow using RStudio functionality</a></li>
+<li>Watch, and follow along with a collaboration partner, video of
+safely collaborating via GitHub, and also creating then resolving a
+merge conflict (video TBD)</li>
 <li>GitHub Pages - build a website using R/RStudio and GitHub!
 <ul>
 <li>Personal site (Distill or Quarto)</li>

@@ -146,13 +146,13 @@ Preparation:
 
 Synchronous Activity:
 
--   Practice with GitHub and RStudio to create project repositories
--   Working in pairs, practice techniques to safely collaborate on a script, then create and resolve a merge conflict
--   Work with git in the Terminal/command line
--   Discuss features of GitHub to effectively collaborate and communicate your science
+-   Recaps of ideas from pre-training days 1-4
+-   Reflections and discussions on challenges of coding, reproducibility, and how to effectively implement data science principles
 
 Asynchronous Activity:
 
+-   Watch (and follow along with) [video walkthrough of Git/GitHub workflow using RStudio functionality](https://ucsb.box.com/s/6ud0sdkt7g0zk4k59d77356960haaabn)
+-   Watch, and follow along with a collaboration partner, video of safely collaborating via GitHub, and also creating then resolving a merge conflict (video TBD)
 -   GitHub Pages - build a website using R/RStudio and GitHub!
     -   Personal site (Distill or Quarto)
     -   Course site (from template)
