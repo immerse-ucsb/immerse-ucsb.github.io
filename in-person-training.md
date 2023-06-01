@@ -5,11 +5,17 @@
 
 <p align="center">
 
-<img src="images/immerse_hex_small.png" width="300"/> <img src="images/IESNewLogo.jpg" width="300"/>
+<h1>Welcome to Santa Barbara!</h1>
 
 </p>
 
 ------------------------------------------------------------------------
+
+<p align="center">
+
+<img src="images/immerse_hex_small.png" width="300"/> <img src="images/IESNewLogo.jpg" width="300"/>
+
+</p>
 
 <p align="center">
 
@@ -23,10 +29,6 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 Learning Outcomes:
 
-1. Fellows will be able to create a first draft of their equity-focused research goals that can be addressed with mixture modeling in the upcoming year.
-
-2. Fellows will be able to identify how the IMMERSE training goals and opportunities can help them to apply mixture modeling training their research goals
-
 Slides:
 
 
@@ -38,7 +40,7 @@ Labs:
 
 ------------------------------------------------------------------------
 
-### Day 2 (May 24, 2023): Introduction to Auxiliary Variables
+### Day 2 (June 6, 2023): Introduction to Auxiliary Variables
 
 Preparation:
 
@@ -54,7 +56,7 @@ Labs:
 
 ------------------------------------------------------------------------
 
-### Day 3 (May 26, 2023): Latent Profile Analysis and Extensions of Mixture Models
+### Day 3 (June 7, 2023): Latent Profile Analysis and Extensions of Mixture Models
 
 Preparation:
 
