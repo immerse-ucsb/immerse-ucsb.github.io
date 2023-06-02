@@ -1,33 +1,36 @@
-% IMMERSE In-Person Training Materials
-
+% IMMERSE In-Person Training Materials 
 
 ------------------------------------------------------------------------
 
-<p align="center">
+<center>
 
 <h1>Welcome to Santa Barbara!</h1>
 
-</p>
+</center>
 
 ------------------------------------------------------------------------
 
-<p align="center">
+<center>
 
 <img src="images/immerse_hex_small.png" width="300"/> <img src="images/IESNewLogo.jpg" width="300"/>
 
-</p>
-
-<p align="center">
 
 The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (IMMERSE) is an IES funded training grant (R305B220021) to support education scholars in integrating mixture modeling into their research.
 
-</p>
+</center>
 
 ------------------------------------------------------------------------
 
-### Day 1 (June 5, 2023): Introduction to Mixture Models
+<center>
 
-Learning Outcomes:
+Please find the Welcome Packet  <a href="https://docs.google.com/document/d/1hZCKGM49nahNsP7J02284ljSPCz0aoCl/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true">here</a>.
+
+</center>
+
+------------------------------------------------------------------------
+
+
+### Day 1 (June 5, 2023): Introduction to Mixture Models
 
 Slides:
 
@@ -42,10 +45,6 @@ Labs:
 
 ### Day 2 (June 6, 2023): Introduction to Auxiliary Variables
 
-Preparation:
-
-Learning Outcomes:
-
 Slides:
 
 Labs: 
@@ -57,10 +56,6 @@ Labs:
 ------------------------------------------------------------------------
 
 ### Day 3 (June 7, 2023): Latent Profile Analysis and Extensions of Mixture Models
-
-Preparation:
-
-Learning Outcomes:
 
 Slides:
 
