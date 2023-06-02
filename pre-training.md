@@ -152,7 +152,7 @@ Synchronous Activity:
 Asynchronous Activity:
 
 -   Watch (and follow along with) [video walkthrough of Git/GitHub workflow using RStudio functionality](https://ucsb.box.com/s/6ud0sdkt7g0zk4k59d77356960haaabn)
--   Watch, and follow along with a collaboration partner, video of safely collaborating via GitHub, and also creating then resolving a merge conflict (video TBD)
+-   Watch, and follow along with a collaboration partner, [video of safely collaborating via GitHub, and also creating then resolving a merge conflict](https://ucsb.box.com/s/ahsgma109ouluclljbf0977llo3d9axf)
     -   Follow along with the [instructions here](https://docs.google.com/document/d/1E5ZoOAcHm2HTlT_M-SsIXTKv-_ptfS9isBPCBg61OTQ/edit#heading=h.pt2xpdnxfu60)
     -   As part of the instructions, you'll need to download [this file](https://drive.google.com/file/d/1L4Ks4U4l8Zw821SUWoWSKN8Jd8F7yi9R/view?usp=drive_link) and put it in a newly created R project
 -   GitHub Pages - build a website using R/RStudio and GitHub - try one or both as suits your needs and preferences!
