@@ -153,9 +153,14 @@ Asynchronous Activity:
 
 -   Watch (and follow along with) [video walkthrough of Git/GitHub workflow using RStudio functionality](https://ucsb.box.com/s/6ud0sdkt7g0zk4k59d77356960haaabn)
 -   Watch, and follow along with a collaboration partner, video of safely collaborating via GitHub, and also creating then resolving a merge conflict (video TBD)
--   GitHub Pages - build a website using R/RStudio and GitHub!
-    -   Personal site (Distill or Quarto)
-    -   Course site (from template)
+-   GitHub Pages - build a website using R/RStudio and GitHub - try one or both as suits your needs and preferences!
+    -   Personal site using `distill` and `postcards`: 
+        -   follow the instructions in [this blog post from Alison Hill](https://www.apreshill.com/blog/2020-12-postcards-distill/) 
+        -   follow carefully, and every time you modify anything in a `.yml` file or YAML header, be VERY CAREFUL about the spacing and indents!
+    -   Course site based on Allison Horst's template for the UCSB MEDS program:
+        -   [Step-by-step instructions](https://docs.google.com/document/d/1iC0f8VONz269Fm6dVHXeiQuWubNOgOiHjF6oHNBLD-o/edit)
+        -   [GitHub Repository of template](https://github.com/allisonhorst/meds-distill-template) ([Here's the README](https://github.com/allisonhorst/meds-distill-template#readme))
+        
 
 ------------------------------------------------------------------------
 
