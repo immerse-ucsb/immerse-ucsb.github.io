@@ -297,17 +297,23 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+content: "";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "\e258";
-font-family: 'Glyphicons Halflings';
+content: "";
 border: none;
+}
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "";
+font-family: 'Glyphicons Halflings';
+display: inline-block;
+padding: 10px;
+border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -576,7 +582,13 @@ principles</li>
 walkthrough of Git/GitHub workflow using RStudio functionality</a></li>
 <li>Watch, and follow along with a collaboration partner, video of
 safely collaborating via GitHub, and also creating then resolving a
-merge conflict (video TBD)</li>
+merge conflict (video TBD)
+<ul>
+<li>Follow along with the <a href="https://docs.google.com/document/d/1E5ZoOAcHm2HTlT_M-SsIXTKv-_ptfS9isBPCBg61OTQ/edit#heading=h.pt2xpdnxfu60">instructions
+here</a></li>
+<li>As part of the instructions, you’ll need to download <a href="https://drive.google.com/file/d/1L4Ks4U4l8Zw821SUWoWSKN8Jd8F7yi9R/view?usp=drive_link">this
+file</a> and put it in a newly created R project</li>
+</ul></li>
 <li>GitHub Pages - build a website using R/RStudio and GitHub - try one
 or both as suits your needs and preferences!
 <ul>
