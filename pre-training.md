@@ -160,7 +160,11 @@ Asynchronous Activity:
     -   Course site based on Allison Horst's template for the UCSB MEDS program:
         -   [Step-by-step instructions](https://docs.google.com/document/d/1iC0f8VONz269Fm6dVHXeiQuWubNOgOiHjF6oHNBLD-o/edit)
         -   [GitHub Repository of template](https://github.com/allisonhorst/meds-distill-template) ([Here's the README](https://github.com/allisonhorst/meds-distill-template#readme))
-        
+
+
+[Pre-Training Day 5 Video](https://drive.google.com/file/d/1_uIYvRppsYRsgPBbLqMigiFIqfZJjXxR/view?usp=sharing) 
+
+[Anonymous Feedback Survey](https://forms.gle/MBjiKoLaHiZYrzPB7)
 
 ------------------------------------------------------------------------
 
