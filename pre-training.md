@@ -146,7 +146,7 @@ Preparation:
 
 Synchronous Activity:
 
--   Recaps of ideas from pre-training days 1-4
+-   Recaps of ideas from pre-training days 1-4: Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 5.pdf)
 -   Reflections and discussions on challenges of coding, reproducibility, and how to effectively implement data science principles
 
 Asynchronous Activity:

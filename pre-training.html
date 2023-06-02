@@ -297,23 +297,17 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before {
-content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "\e259";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "";
-border: none;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "";
+content: "\e258";
 font-family: 'Glyphicons Halflings';
-display: inline-block;
-padding: 10px;
-border-right: 1px solid #ddd;
+border: none;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -571,7 +565,7 @@ session.</li>
 </ul>
 <p>Synchronous Activity:</p>
 <ul>
-<li>Recaps of ideas from pre-training days 1-4</li>
+<li>Recaps of ideas from pre-training days 1-4: Slide deck <a href="https://immerse-ucsb.github.io/IMMERSE%20Pre-training%20Day%205.pdf">here</a></li>
 <li>Reflections and discussions on challenges of coding,
 reproducibility, and how to effectively implement data science
 principles</li>
