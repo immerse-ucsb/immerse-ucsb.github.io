@@ -36,7 +36,9 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ### Day 1 (June 5, 2023): Introduction to Mixture Models
 
-[Day 1 Slides](https://ucsb.box.com/s/rhh2n61ydim82qt68okkv9kz1gboaach)
+[Day 1 Slides](https://github.com/immerse-ucsb/IMMERSE_day1.pdf)
+
+* [Here](https://github.com/immerse-ucsb/Pages from day1_slide42_45.pdf) are the three slides with formatting of equations fixed
 
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-day1)): 
