@@ -41,6 +41,9 @@ Labs:
 2. Lab 2: Troubleshooting MplusAutomation code
 3. Lab 3: Latent Class Analysis using MplusAutomation 
 
+
+[Anonymous Feedback Survey](https://forms.gle/YiAdpVfxoAgzgrTU7)
+
 ------------------------------------------------------------------------
 
 ### Day 2 (June 6, 2023): Introduction to Auxiliary Variables
