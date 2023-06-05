@@ -21,21 +21,25 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ------------------------------------------------------------------------
 
-<center>
 
-Please find the Welcome Packet  <a href="https://docs.google.com/document/d/1hZCKGM49nahNsP7J02284ljSPCz0aoCl/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true">here</a>.
+### Helpful Links:
 
-</center>
+* [Welcome Packet](https://docs.google.com/document/d/1hZCKGM49nahNsP7J02284ljSPCz0aoCl/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true)
+
+* [Parking Lot](https://docs.google.com/document/d/1_O1Kq4ve2b_L6thb7qEt2vk4-PwaWSPL7Q9R9uc02ec/edit)
+
+* [Readings](https://ucsb.box.com/s/37y6v33fu4whc39fuuky979guixs8obu)
+
 
 ------------------------------------------------------------------------
 
 
 ### Day 1 (June 5, 2023): Introduction to Mixture Models
 
-Slides:
+[Day 1 Slides](https://ucsb.box.com/s/rhh2n61ydim82qt68okkv9kz1gboaach)
 
 
-Labs: 
+Labs ([Github](https://github.com/immerse-ucsb/in-person-day1)): 
 
 1. Lab 1: LCA Scavenger hunt
 2. Lab 2: Troubleshooting MplusAutomation code
