@@ -30,6 +30,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 * [Readings](https://ucsb.box.com/s/37y6v33fu4whc39fuuky979guixs8obu)
 
+* [Travel Reimbursement](https://immerse-ucsb.github.io/KNIES June 23 Visitors Travel Reimbursement Worksheet.pdf). Please fill out and send to education-immerse@ucsb.edu. 
 
 ------------------------------------------------------------------------
 
