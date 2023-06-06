@@ -52,7 +52,7 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-day1)):
 
 ------------------------------------------------------------------------
 
-### Day 2 (June 6, 2023): Introduction to Auxiliary Variables
+### Day 2 (June 6, 2023): Enumeration and Introduction to Auxiliary Variables
 
 Slides: [Day 2 Part 1](https://immerse-ucsb.github.io/IMMERSE_Day2-Part1.pdf)
 
