@@ -83,6 +83,8 @@ Labs:
 
 1. Lab 1: LPA using MplusAutomation
  
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSccB7SpMQLFqR4dlJySRBAXbFbuatQN2KOVTB-vovG2AFtp6A/viewform?usp=sf_link) 
+ 
 ------------------------------------------------------------------------
 
 Helpful Links:
