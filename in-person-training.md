@@ -56,6 +56,11 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-day1)):
 
 ### Day 2 (June 6, 2023): Enumeration and Introduction to Auxiliary Variables
 
+Annotated Output Examples:
+
+* Dina's thesis [paper](https://github.com/dinanajiarch/lca_moderation/blob/main/appendix_b.pdf) on LCA moderation has annotated output on enumeration.
+* Karen and Adam's [paper](https://journals.sagepub.com/doi/10.1177/01987429211067214) on heterogeneity in youth coping strategies has annontated output in the supplementary materials.
+
 Slides: [Day 2 Part 1](https://immerse-ucsb.github.io/IMMERSE_Day2-Part1.pdf)
 
 
