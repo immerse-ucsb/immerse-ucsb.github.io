@@ -56,11 +56,13 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-day1)):
 
 Slides:
 
-Labs: 
+
+Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
 1. Lab 1: Auxiliary Variables with ML Three-Step
 2. Lab 2: BCH Method
  
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPliTRCoOd9Sr6bOLjPk4ueGgLjypCHF5sYdab6d5Vaf1y9Q/viewform?usp=sf_link)
 
 ------------------------------------------------------------------------
 
