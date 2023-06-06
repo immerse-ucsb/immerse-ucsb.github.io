@@ -70,12 +70,13 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
 ### Day 3 (June 7, 2023): Latent Profile Analysis and Extensions of Mixture Models
 
+[IMMERSE In-Training Workspace](https://docs.google.com/presentation/d/1D3GSk2Y4JDU_TIvEV6EQu38-O6hVvb-lvR6xmYJxoaw/edit?usp=sharing)
+
 Slides:
 
 Labs: 
 
 1. Lab 1: LPA using MplusAutomation
-2. Lab 2: Calibration/Validation
  
 ------------------------------------------------------------------------
 
