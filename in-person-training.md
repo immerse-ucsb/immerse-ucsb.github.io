@@ -66,8 +66,7 @@ Slides: [Day 2 Part 1](https://immerse-ucsb.github.io/IMMERSE_Day2-Part1.pdf)
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
-1. Lab 1: Auxiliary Variables with ML Three-Step
-2. Lab 2: BCH Method
+1. Review of lab 3
  
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPliTRCoOd9Sr6bOLjPk4ueGgLjypCHF5sYdab6d5Vaf1y9Q/viewform?usp=sf_link)
 
@@ -81,7 +80,8 @@ Slides:
 
 Labs: 
 
-1. Lab 1: LPA using MplusAutomation
+1. LCA with auxiliary variables (ML 3-step and BCH)
+2. LPA
  
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSccB7SpMQLFqR4dlJySRBAXbFbuatQN2KOVTB-vovG2AFtp6A/viewform?usp=sf_link) 
  
