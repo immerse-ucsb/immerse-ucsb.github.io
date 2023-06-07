@@ -76,7 +76,7 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
 [IMMERSE In-Training Workspace](https://docs.google.com/presentation/d/1D3GSk2Y4JDU_TIvEV6EQu38-O6hVvb-lvR6xmYJxoaw/edit?usp=sharing)
 
-Slides:
+Slides: [Day 3](https://immerse-ucsb.github.io/IMMERSE_Day3.pdf)
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
