@@ -78,7 +78,7 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
 Slides:
 
-Labs: 
+Labs ([Github](https://github.com/immerse-ucsb/in-person-day2))
 
 1. LCA with auxiliary variables (ML 3-step and BCH)
 2. LPA
