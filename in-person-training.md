@@ -63,6 +63,8 @@ Annotated Output Examples:
 
 Slides: [Day 2 Part 1](https://immerse-ucsb.github.io/IMMERSE_Day2-Part1.pdf)
 
+* [Day 2 Slides 84-85](https://immerse-ucsb.github.io/Pages from IMMERSE_Day2-slides84-85.pdf)
+
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
