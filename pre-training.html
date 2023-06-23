@@ -297,23 +297,17 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before {
-content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "\e259";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "";
-border: none;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "";
+content: "\e258";
 font-family: 'Glyphicons Halflings';
-display: inline-block;
-padding: 10px;
-border-right: 1px solid #ddd;
+border: none;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -540,6 +534,8 @@ by line through the .Rmd scripts, as you prefer. Note, some of
 coding session, but this script contains additional details and more
 complex wrangling cases.</li>
 </ul>
+<p><a href="https://drive.google.com/file/d/1V1MhB7bsUjAUk2lTzqWz70VZcq9qIuCS/view?usp=sharing">Pre-Training
+Day 4 Video</a></p>
 <p><a href="https://forms.gle/kxgeaK8A9CQvwgZP7">Anonymous Feedback
 Survey</a></p>
 <hr />

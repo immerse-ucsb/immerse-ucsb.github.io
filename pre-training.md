@@ -128,6 +128,9 @@ Asynchronous Activity:
 -   [Additional text wrangling: self-guided tour](https://github.com/oharac/text_workshop): Fork then clone this repository to your computer. Code along with the .HTML files in numeric order, or run line by line through the .Rmd scripts, as you prefer. Note, some of `1_stringr_tutorial` will be duplicated in the Day 4 live coding session, but this script contains additional details and more complex wrangling cases.
 
 
+[Pre-Training Day 4 Video](https://drive.google.com/file/d/1V1MhB7bsUjAUk2lTzqWz70VZcq9qIuCS/view?usp=sharing) 
+
+
 [Anonymous Feedback Survey](https://forms.gle/kxgeaK8A9CQvwgZP7)
 
 ------------------------------------------------------------------------
