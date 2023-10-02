@@ -22,24 +22,50 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ------------------------------------------------------------------------
 ### Friday, October 13, 2023
--Speaker:
---Materials:
+
+- Speaker/Topic:
+
+
+- Materials:
 
 ### Friday, November 10, 2023
+- Speaker/Topic:
 
+
+- Materials:
+  
 ### Friday, December 8, 2023
+- Speaker/Topic:
 
+
+- Materials:
 ### Friday, January 19, 2024
+- Speaker/Topic:
+
+
+- Materials:
 
 ### Friday, February 9, 2024
+- Speaker/Topic:
 
+
+- Materials:
 ### Friday, March 8, 2024
+- Speaker/Topic:
 
+
+- Materials:
 ### Friday, April 12, 2024
+- Speaker/Topic:
 
+
+- Materials:
 ### Friday, May 10, 2024
 
+- Speaker/Topic:
 
+
+- Materials:
 
 
 ------------------------------------------------------------------------
