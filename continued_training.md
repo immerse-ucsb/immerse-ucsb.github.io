@@ -1,10 +1,10 @@
-% IMMERSE Continued Training 
+
 
 ------------------------------------------------------------------------
 
 <center>
 
-<h1>Welcome to Santa Barbara!</h1>
+<h1>IMMERSE  Continued Training </h1>
 
 </center>
 
@@ -21,9 +21,26 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 
 ------------------------------------------------------------------------
+### Friday, October 13, 2023
+-Speaker:
+--Materials:
+
+### Friday, November 10, 2023
+
+### Friday, December 8, 2023
+
+### Friday, January 19, 2024
+
+### Friday, February 9, 2024
+
+### Friday, March 8, 2024
+
+### Friday, April 12, 2024
+
+### Friday, May 10, 2024
 
 
-### Speaker materials...etc.
+
 
 ------------------------------------------------------------------------
 
@@ -34,8 +51,6 @@ Helpful Links:
 -   Visit our [GitHub](https://github.com/immerse-ucsb) account to access all the IMMERSE materials.
 
 -   Follow us on [Twitter](https://twitter.com/IMMERSE_UCSB)!
-
-How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE In-Person Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/pre-training>
 
 ------------------------------------------------------------------------
 
