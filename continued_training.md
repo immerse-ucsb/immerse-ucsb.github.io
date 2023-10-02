@@ -25,7 +25,6 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 - Speaker/Topic:
 
-
 - Materials:
 
 ### Friday, November 10, 2023
