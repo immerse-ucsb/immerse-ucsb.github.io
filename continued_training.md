@@ -14,7 +14,7 @@
 
 <img src="images/immerse_hex_small.png" width="300"/> <img src="images/IESNewLogo.jpg" width="300"/>
 
-</p>
+<p>
 
 ------------------------------------------------------------------------
 
