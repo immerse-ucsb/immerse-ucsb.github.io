@@ -1,10 +1,29 @@
 # IMMERSE Tutorial Materials: 
 
-## A GH pages repository to host all tutorial scripts as websites for sharing! 
+<p align="center">
 
-> i.e., `Presentation Slides`, `R`, `Rmarkdown`, `MplusAutomation`
+<img src="images/immerse_hex_small.png" width="300"/> <img src="images/IESNewLogo.jpg" width="300"/>
+
+</p>
+
+
+Where materials can be found for the workshop (i.e., slide-decks, videos, and other resources)
 
 - - -
+
+## Pre-training materials page: [HERE](https://immerse-ucsb.github.io/pre-training)
+
+- - -
+
+## In-Person Training materials page:  [HERE](https://immerse-ucsb.github.io/in-person-training)
+
+- - -
+
+## Ongoing training materials page:  [HERE](https://immerse-ucsb.github.io/continued_training)
+
+- - -
+
+## Helpful Resources:
 
 ##### Introduction:
 
@@ -33,3 +52,7 @@
 3. [Interpret & Summarize Mixture Models with Auxiliary Variables: Distal & Moderation Model Example](https://immerse-ucsb.github.io/interpet-aux-vars.pdf)
 
 - - -
+
+
+
+![](images/UCSB_Navy_mark.png)
