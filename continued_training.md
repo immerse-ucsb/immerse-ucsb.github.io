@@ -1,4 +1,4 @@
-<h1> IMMERSE Continued Training </h1>
+<h1>IMMERSE Continued Training</h1>
 
 ------------------------------------------------------------------------
 
@@ -18,64 +18,56 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ------------------------------------------------------------------------
 
-
 ### Friday, October 13, 2023
 
-- Speaker/Topic:
+-   Speaker/Topic: Dina Arch - Data Visualization for Latent Class Analysis
 
+-   Materials:
 
-- Materials:
-
+    -   [Slides](https://docs.google.com/presentation/d/1GOApBJSf5IqgQCqskcJc69hJjUY0UZ_ZYLWkqxFI-5E/edit?usp=sharing)
+    -   [Github Repository](https://github.com/immerse-ucsb/continued_training)
 
 ### Friday, November 10, 2023
 
-- Speaker/Topic:
+-   Speaker/Topic:
 
+-   Materials:
 
-- Materials:
-  
 ### Friday, December 8, 2023
 
-- Speaker/Topic:
+-   Speaker/Topic:
 
-
-- Materials:
+-   Materials:
 
 ### Friday, January 19, 2024
 
-- Speaker/Topic:
+-   Speaker/Topic:
 
-
-- Materials:
+-   Materials:
 
 ### Friday, February 9, 2024
 
-- Speaker/Topic:
+-   Speaker/Topic:
 
-
-- Materials:
+-   Materials:
 
 ### Friday, March 8, 2024
 
-- Speaker/Topic:
+-   Speaker/Topic:
 
-
-- Materials:
+-   Materials:
 
 ### Friday, April 12, 2024
 
-- Speaker/Topic:
+-   Speaker/Topic:
 
-
-- Materials:
+-   Materials:
 
 ### Friday, May 10, 2024
 
-- Speaker/Topic:
+-   Speaker/Topic:
 
-
-- Materials:
-
+-   Materials:
 
 ------------------------------------------------------------------------
 
