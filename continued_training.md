@@ -28,11 +28,13 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
     -   [Github Repository](https://github.com/immerse-ucsb/continued_training)
     -   [Video Recording](https://drive.google.com/file/d/1c7wRrPNsKYOdG5QAbx4IKq9m6DY4vBq9/view?usp=sharing)
 
-### Friday, November 10, 2023
+### Friday, November 17, 2023
 
--   Speaker/Topic:
+-   Speaker/Topic: Michael Furlong
 
 -   Materials:
+     -   [Video Recording](https://drive.google.com/file/d/1TYXMHA0bp0XnVyciozd-BA9exyxBeZhs/view?usp=sharing)
+     -   [Covitality links](https://linktr.ee/covitalityucsb?utm_source=linktree_profile_share)   
 
 ### Friday, December 8, 2023
 
