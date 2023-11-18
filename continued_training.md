@@ -23,7 +23,6 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic: Dina Arch - Data Visualization for Latent Class Analysis
 
 -   Materials:
-
     -   [Slides](https://docs.google.com/presentation/d/1GOApBJSf5IqgQCqskcJc69hJjUY0UZ_ZYLWkqxFI-5E/edit?usp=sharing)
     -   [Github Repository](https://github.com/immerse-ucsb/continued_training)
     -   [Video Recording](https://drive.google.com/file/d/1c7wRrPNsKYOdG5QAbx4IKq9m6DY4vBq9/view?usp=sharing)
