@@ -46,7 +46,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ### Friday, January 19, 2024
 
--   Speaker/Topic:[Ryan Grimm]
+-   Speaker/Topic:[Ryan Grimm](ryan.grimm@sri.com)
 
 -   Materials:
      - [Video Recording](https://drive.google.com/file/d/1IRFkpjYUmQF7UhAAwWf6FS4osnjCL0Aj/view?usp=sharing )
