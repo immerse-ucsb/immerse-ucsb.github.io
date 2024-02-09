@@ -54,9 +54,11 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ### Friday, February 9, 2024
 
--   Speaker/Topic:
+-   Speaker/Topic:  Introduction to LTA with Karen Nylund-Gibson
+  
 
--   Materials:
+-   Materials: [LTA slides] (https://drive.google.com/file/d/1DVC9-qQI-9e0gZhY-LK1PLa1u1C9XRYR/view?usp=drive_link)
+-   
 
 ### Friday, March 8, 2024
 
