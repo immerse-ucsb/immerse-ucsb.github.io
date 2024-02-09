@@ -58,10 +58,9 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
   
 
 -   Materials: [LTA slides](https://drive.google.com/file/d/1DVC9-qQI-9e0gZhY-LK1PLa1u1C9XRYR/view?usp=drive_link)
--   10 FAQs about LTA
-   - [paper](https://psycnet.apa.org/record/2022-79821-001)
-   - [supplmentary material](https://doi.org/10.1037/met0000486.supp)
--   
+-  Ten frequently asked questions about latent transition analysis. Psychological Methods, 28(2), 284–300.
+     -  [paper](https://psycnet.apa.org/record/2022-79821-001)
+     -  [supplmentary material](https://doi.org/10.1037/met0000486.supp) 
 
 ### Friday, March 8, 2024
 
