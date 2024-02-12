@@ -54,14 +54,12 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ### Friday, February 9, 2024
 
--   Speaker/Topic:  Introduction to LTA with Karen Nylund-Gibson
-  
-
+-   Speaker/Topic:  Introduction to LTA with Karen Nylund-Gibson  
 -   Materials: [LTA slides](https://drive.google.com/file/d/1DVC9-qQI-9e0gZhY-LK1PLa1u1C9XRYR/view?usp=drive_link)
 -  Ten frequently asked questions about latent transition analysis. Psychological Methods, 28(2), 284–300.
      -  [paper](https://psycnet.apa.org/record/2022-79821-001)
      -  [supplmentary material](https://doi.org/10.1037/met0000486.supp) 
-
+- Video: [LTA Video] (https://drive.google.com/file/d/1CTo83CvnbWYLfoX89_cqBwnRnD61rPQD/view?usp=sharing)
 ### Friday, March 8, 2024
 
 -   Speaker/Topic:
