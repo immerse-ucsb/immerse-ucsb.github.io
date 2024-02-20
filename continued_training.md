@@ -65,6 +65,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic:  [Danielle Harlow](https://faculty.education.ucsb.edu/people/principal-investigator/danielle-harlow)
 
 -   Materials:
+    - [Using latent class analysis to analyze children's responses to the question, “What is a day?”](https://onlinelibrary.wiley.com/doi/abs/10.1002/sce.20437)
 
 ### Friday, April 12, 2024
 
