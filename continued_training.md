@@ -62,7 +62,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 - Video: [LTA Video](https://drive.google.com/file/d/1CTo83CvnbWYLfoX89_cqBwnRnD61rPQD/view?usp=sharing)
 ### Friday, March 8, 2024
 
--   Speaker/Topic:
+-   Speaker/Topic:  [Danielle Harlow](https://faculty.education.ucsb.edu/people/principal-investigator/danielle-harlow)
 
 -   Materials:
 
