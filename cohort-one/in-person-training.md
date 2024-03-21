@@ -30,7 +30,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 * [Readings](https://ucsb.box.com/s/37y6v33fu4whc39fuuky979guixs8obu)
 
-* [Travel Reimbursement](https://immerse-ucsb.github.io/KNIES June 23 Visitors Travel Reimbursement Worksheet.pdf). Please fill this form out and send to education-immerse@ucsb.edu. Also email us a PDF of the receipt for your travel. You will reimbursed for up to $500.
+* [Travel Reimbursement](https://immerse-ucsb.github.io/cohort-one/KNIES June 23 Visitors Travel Reimbursement Worksheet.pdf). Please fill this form out and send to education-immerse@ucsb.edu. Also email us a PDF of the receipt for your travel. You will reimbursed for up to $500.
 
 
 ------------------------------------------------------------------------
@@ -38,9 +38,9 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ### Day 1 (June 5, 2023): Introduction to Mixture Models
 
-[Day 1 Slides](https://immerse-ucsb.github.io/IMMERSE_day1.pdf)
+[Day 1 Slides](https://immerse-ucsb.github.io/cohort-one/IMMERSE_day1.pdf)
 
-* [Here](https://immerse-ucsb.github.io/Pages from day1_slide42_45.pdf) are the three slides with formatting of equations fixed
+* [Here](https://immerse-ucsb.github.io/cohort-one/Pages from day1_slide42_45.pdf) are the three slides with formatting of equations fixed
 
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-day1)): 
@@ -61,9 +61,9 @@ Annotated Output Examples:
 * Dina's thesis [paper](https://github.com/dinanajiarch/lca_moderation/blob/main/appendix_b.pdf) on LCA moderation has annotated output on enumeration.
 * Karen and Adam's [paper](https://journals.sagepub.com/doi/10.1177/01987429211067214) on heterogeneity in youth coping strategies has annontated output in the supplementary materials.
 
-Slides: [Day 2 Part 1](https://immerse-ucsb.github.io/IMMERSE_Day2-Part1.pdf)
+Slides: [Day 2 Part 1](https://immerse-ucsb.github.io/cohort-one/IMMERSE_Day2-Part1.pdf)
 
-* [Day 2 Slides 84-85](https://immerse-ucsb.github.io/Pages from IMMERSE_Day2-slides84-85.pdf)
+* [Day 2 Slides 84-85](https://immerse-ucsb.github.io/cohort-one/Pages from IMMERSE_Day2-slides84-85.pdf)
 
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
@@ -78,7 +78,7 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
 [IMMERSE In-Training Workspace](https://docs.google.com/presentation/d/1D3GSk2Y4JDU_TIvEV6EQu38-O6hVvb-lvR6xmYJxoaw/edit?usp=sharing)
 
-Slides: [Day 3](https://immerse-ucsb.github.io/IMMERSE_Day3.pdf)
+Slides: [Day 3](https://immerse-ucsb.github.io/cohort-one/IMMERSE_Day3.pdf)
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-day2)):
 
@@ -97,7 +97,7 @@ Helpful Links:
 
 -   Follow us on [Twitter](https://twitter.com/IMMERSE_UCSB)!
 
-How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE In-Person Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/pre-training>
+How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE In-Person Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/cohort-one/pre-training>
 
 ------------------------------------------------------------------------
 

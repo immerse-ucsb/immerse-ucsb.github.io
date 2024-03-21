@@ -32,7 +32,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic: [Michael Furlong](https://education.ucsb.edu/people/dean-emeriti-faculty/michael-furlong)
 
 -   Materials:
-     -   [Slides](https://immerse-ucsb.github.io/Karen_Immerse_Graphics.pdf)
+     -   [Slides](https://immerse-ucsb.github.io/cohort-one/Karen_Immerse_Graphics.pdf)
      -   [Video Recording](https://drive.google.com/file/d/1TYXMHA0bp0XnVyciozd-BA9exyxBeZhs/view?usp=sharing)
      -   [Covitality links](https://linktr.ee/covitalityucsb?utm_source=linktree_profile_share)   
 

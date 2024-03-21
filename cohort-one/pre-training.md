@@ -30,7 +30,7 @@ Learning Outcomes:
 
 Synchronous Activity:
 
-* Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 1.pdf)
+* Slide deck [here](https://immerse-ucsb.github.io/cohort-one/IMMERSE Pre-training Day 1.pdf)
 * [Workspace](https://docs.google.com/presentation/d/1kRnbRT04Tgq8cvgdlDP-bPMG2InfkZZtLpsIJYAgPzI/edit?usp=sharing)
 
 Asynchronous Activity:
@@ -62,7 +62,7 @@ Learning Outcomes:
 Synchronous Activity:
 
 -   [Introduction to MplusAutomation](https://github.com/immerse-ucsb/intro-to-mplusautomation)
--   Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 2.pdf)
+-   Slide deck [here](https://immerse-ucsb.github.io/cohort-one/IMMERSE Pre-training Day 2.pdf)
 
 Asynchronous Activity:
 
@@ -85,7 +85,7 @@ Learning Outcomes:
 
 Preparation:
 
--   Work through the [Intro to R and R Studio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and R Studio.
+-   Work through the [Intro to R and R Studio tutorial](https://immerse-ucsb.github.io/helpful-resources/intro_to_rstudio.pdf) if not already done, including installing R and R Studio.
 -   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 Synchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3_wrangling_practice)):
@@ -149,7 +149,7 @@ Preparation:
 
 Synchronous Activity:
 
--   Recaps of ideas from pre-training days 1-4: Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 5.pdf)
+-   Recaps of ideas from pre-training days 1-4: Slide deck [here](https://immerse-ucsb.github.io/cohort-one/IMMERSE Pre-training Day 5.pdf)
 -   Reflections and discussions on challenges of coding, reproducibility, and how to effectively implement data science principles
 
 Asynchronous Activity:
@@ -180,7 +180,7 @@ Helpful Links:
 
 -   Follow us on [Twitter](https://twitter.com/IMMERSE_UCSB)!
 
-How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE Pre-Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/pre-training>
+How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE Pre-Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/cohort-one/pre-training>
 
 ------------------------------------------------------------------------
 
