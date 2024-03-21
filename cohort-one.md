@@ -7,7 +7,7 @@
 </p>
 
 
-Where materials can be found for the workshop (i.e., slide-decks, videos, and other resources)
+Where materials can be found for the workshop for Cohort One (i.e., slide-decks, videos, and other resources)
 
 - - -
 
