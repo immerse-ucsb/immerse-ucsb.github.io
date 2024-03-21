@@ -7,19 +7,16 @@
 </p>
 
 
-Where materials can be found for the workshop (i.e., slide-decks, videos, and other resources)
+
+Where materials can be found for the workshop for each cohort (i.e., slide-decks, videos, and other resources)
 
 - - -
 
-## Pre-training materials page: [HERE](https://immerse-ucsb.github.io/pre-training)
+## IMMERSE Cohort One Materials (2023-2024): [HERE](https://immerse-ucsb.github.io/cohort-one)
 
 - - -
 
-## In-Person Training materials page:  [HERE](https://immerse-ucsb.github.io/in-person-training)
-
-- - -
-
-## Ongoing training materials page:  [HERE](https://immerse-ucsb.github.io/continued_training)
+## IMMERSE Cohort Two Materials (2024-2025):  [HERE](https://immerse-ucsb.github.io/cohort-two)
 
 - - -
 
