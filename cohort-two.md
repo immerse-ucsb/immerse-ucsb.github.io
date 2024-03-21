@@ -11,15 +11,15 @@ Where materials can be found for the workshop for Cohort Two (i.e., slide-decks,
 
 - - -
 
-## Pre-training materials page: [HERE](https://immerse-ucsb.github.io/cohort-one/pre-training)
+## Pre-training materials page: 
 
 - - -
 
-## In-Person Training materials page:  [HERE](https://immerse-ucsb.github.io/cohort-one/in-person-training)
+## In-Person Training materials page:  
 
 - - -
 
-## Ongoing training materials page:  [HERE](https://immerse-ucsb.github.io/cohort-one/continued_training)
+## Ongoing training materials page:  
 
 - - -
 
