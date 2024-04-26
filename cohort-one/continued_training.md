@@ -60,6 +60,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
      -  [paper](https://psycnet.apa.org/record/2022-79821-001)
      -  [supplmentary material](https://doi.org/10.1037/met0000486.supp) 
 - Video: [LTA Video](https://drive.google.com/file/d/1CTo83CvnbWYLfoX89_cqBwnRnD61rPQD/view?usp=sharing)
+
 ### Friday, March 8, 2024
 
 -   Speaker/Topic:  [Danielle Harlow](https://faculty.education.ucsb.edu/people/principal-investigator/danielle-harlow)
@@ -67,11 +68,13 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Materials:
     - [Using latent class analysis to analyze children's responses to the question, “What is a day?”](https://onlinelibrary.wiley.com/doi/abs/10.1002/sce.20437)
 
-### Friday, April 12, 2024
+### Friday, April 26, 2024
 
--   Speaker/Topic:
+-   Speaker/Topic: [Sara Suzuki](https://tischcollege.tufts.edu/people/staff/sara-suzuki)
 
 -   Materials:
+     - [Using QuantCrit to Advance an Anti-Racist Developmental Sciencce: Application to Mixture Modeling](https://journals.sagepub.com/doi/abs/10.1177/07435584211028229)
+     - [Video Recording](https://drive.google.com/file/d/10nukmkwc6OEq57xi1dV_HMCvr-gDML0v/view?usp=sharing)     
 
 ### Friday, May 10, 2024
 
