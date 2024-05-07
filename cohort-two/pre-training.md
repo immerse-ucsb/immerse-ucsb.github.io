@@ -36,11 +36,11 @@ Synchronous Activity:
 
 Asynchronous Activity:
 
-* Activity 1: Thoughts on articles from expert consultants (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/11x9KBbsMV3aZhANnffh6W_c2DOct7YacHLgfddL1_1E/edit?usp=sharing) slides)
+* Activity 1: Thoughts on articles from expert consultants (starting on slide 14 of the [Workspace](https://docs.google.com/presentation/d/11x9KBbsMV3aZhANnffh6W_c2DOct7YacHLgfddL1_1E/edit?usp=sharing) slides)
 
-* Activity 2: Create a draft of your research goals (starting on slide 14 of the [Workspace](https://docs.google.com/presentation/d/11x9KBbsMV3aZhANnffh6W_c2DOct7YacHLgfddL1_1E/edit?usp=sharing) slides]
+* Activity 2: Create a draft of your research goals (starting on slide 18 of the [Workspace](https://docs.google.com/presentation/d/11x9KBbsMV3aZhANnffh6W_c2DOct7YacHLgfddL1_1E/edit?usp=sharing) slides]
 
-* Activity 3: Prepartion for Day 2:
+* Activity 3: Preparation for Day 2:
    *   Makes sure R, RStudio and Mplus are installed
   * If you are new to R, watch Parts 1 and 2 of our `Intro to R` IMMERSE [video](https://www.youtube.com/watch?v=TmbUTuMs-sA&ab_channel=IMMERSETrainingProgram). Part 1 also goes over installation. 
 
