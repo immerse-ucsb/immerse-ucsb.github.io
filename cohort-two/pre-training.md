@@ -33,7 +33,7 @@ Synchronous Activity:
 
 * Slide deck [here](https://drive.google.com/file/d/1akTEh4_onk83U-BWFSIT9lA1h-DrQjis/view?usp=sharing)
 * [Workspace](https://docs.google.com/presentation/d/11x9KBbsMV3aZhANnffh6W_c2DOct7YacHLgfddL1_1E/edit?usp=sharing)
-* [video](https://drive.google.com/file/d/17mBEtkqRgJ9NC5DBWDNV_GYsn0d9Bo4c/view?usp=sharing)
+* [Sychronous Pretraining video May 7th](https://drive.google.com/file/d/17mBEtkqRgJ9NC5DBWDNV_GYsn0d9Bo4c/view?usp=sharing)
 
 Asynchronous Activity:
 
