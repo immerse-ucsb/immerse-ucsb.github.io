@@ -22,16 +22,30 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 ### Day 1 (May 7, 2024): Introductions, training goals, introduction to data science
 
 
+Learning Outcomes:
+
+1. Fellows will be able to create a first draft of their equity-focused research goals that can be addressed with mixture modeling in the upcoming year.
+
+2. Fellows will be able to identify how the IMMERSE training goals and opportunities can help them to apply mixture modeling training their research goals
+
+
 Synchronous Activity:
 
+* Slide deck [here](https://drive.google.com/file/d/1akTEh4_onk83U-BWFSIT9lA1h-DrQjis/view?usp=sharing)
+* [Workspace](https://docs.google.com/presentation/d/11x9KBbsMV3aZhANnffh6W_c2DOct7YacHLgfddL1_1E/edit?usp=sharing)
 
 Asynchronous Activity:
 
-* Activity 1: 
+* Activity 1: Thoughts on articles from expert consultants (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/11x9KBbsMV3aZhANnffh6W_c2DOct7YacHLgfddL1_1E/edit?usp=sharing) slides)
 
-* Activity 2: 
+* Activity 2: Create a draft of your research goals (starting on slide 14 of the [Workspace](https://docs.google.com/presentation/d/1kRnbRT04Tgq8cvgdlDP-bPMG2InfkZZtLpsIJYAgPzI/edit?usp=sharing) slides]
 
-[Anonymous Feedback Survey]()
+* Activity 3: Prepartion for Day 2:
+- Makes sure R, RStudio and Mplus are installed
+- If you are new to R, watch Parts 1 and 2 of our `Intro to R` IMMERSE [video](https://www.youtube.com/watch?v=TmbUTuMs-sA&ab_channel=IMMERSETrainingProgram). Part 1 also goes over installation. 
+
+
+[Anonymous Feedback Survey](https://forms.gle/eqWLdPGim4Pp2dmKA)
 
 ------------------------------------------------------------------------
 
