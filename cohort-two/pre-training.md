@@ -57,7 +57,7 @@ Synchronous Activity:
 
 * Slide deck [here](https://docs.google.com/presentation/d/1SWmU1gpE-stN8JOrAkT_7S6QYlWL0PlDHd4j6z9uA24/edit?usp=sharing)
 * [JamBoard](https://jamboard.google.com/d/1gS3nslDAlpEDpf6eJEFwO82Zlr6WrBJZfM8XjvVNPCQ/edit?usp=sharing)
-* [Synchronous Pretraining video May 10th]()
+* [Synchronous Pretraining video May 10th](https://drive.google.com/file/d/1ft56i90FUwUcUsLWZpWTlqD0bUVvpfI9/view?usp=sharing)
 
 
 Asynchronous Activity:
