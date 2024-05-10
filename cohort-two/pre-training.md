@@ -55,15 +55,27 @@ Asynchronous Activity:
 
 Synchronous Activity:
 
+* Slide deck [here](https://docs.google.com/presentation/d/1SWmU1gpE-stN8JOrAkT_7S6QYlWL0PlDHd4j6z9uA24/edit?usp=sharing)
+* [JamBoard](https://jamboard.google.com/d/1gS3nslDAlpEDpf6eJEFwO82Zlr6WrBJZfM8XjvVNPCQ/edit?usp=sharing)
+* [Synchronous Pretraining video May 10th]()
+
 
 Asynchronous Activity:
 
 * Activity 1: 
+  *   Watch Part 3 of our `Intro to R` IMMERSE [video](https://www.youtube.com/watch?v=TmbUTuMs-sA&ab_channel=IMMERSETrainingProgram). 
+  *   Materials are [here](https://github.com/immerse-ucsb/intro_to_rstudio)
 
 * Activity 2: 
+  *   [Introduction to Git and Github](https://happygitwithr.com/big-picture): Just read Section 1 (Why Git? Why Github?) 
+  *   Register a Github account (see Section 4)
+  *   If you’re feeling adventurous, try installing Github to Rstudio! (Don’t worry if not, we will get to it eventually). I have found  [this resource](https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit?usp=sharing) by Allison Horst to be most helpful in connecting your Github account to RStudio.
+
+* Activity 3 (Optional):
+  *   [How to make your R Markdown pretty!](https://www.youtube.com/watch?v=v048ru5v0BE)
 
 
-[Anonymous Feedback Survey]()
+[Anonymous Feedback Survey](https://forms.gle/jNkgaScmoByfDWrQ8)
 
 ------------------------------------------------------------------------
 
