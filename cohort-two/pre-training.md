@@ -75,7 +75,7 @@ Asynchronous Activity:
   *   [How to make your R Markdown pretty!](https://www.youtube.com/watch?v=v048ru5v0BE)
 
 
-[Anonymous Feedback Survey](https://forms.gle/jNkgaScmoByfDWrQ8)
+[Anonymous Feedback Survey](https://forms.gle/RD6P3H9offKL4WFD7)
 
 ------------------------------------------------------------------------
 
