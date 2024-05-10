@@ -63,7 +63,7 @@ Synchronous Activity:
 Asynchronous Activity:
 
 * Activity 1: 
-  *   Watch Part 3 of our `Intro to R` IMMERSE [video](https://www.youtube.com/watch?v=TmbUTuMs-sA&ab_channel=IMMERSETrainingProgram). 
+  *   Watch Part 3 (no need to code along) of our `Intro to R` IMMERSE [video](https://www.youtube.com/watch?v=TmbUTuMs-sA&ab_channel=IMMERSETrainingProgram). 
   *   Materials are [here](https://github.com/immerse-ucsb/intro_to_rstudio)
 
 * Activity 2: 
