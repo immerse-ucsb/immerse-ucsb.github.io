@@ -95,6 +95,9 @@ Asynchronous Activity:
 * Activity 2: 
   *   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
+* Activity 3:
+  *   R practice: Complete the rest of today's code along [GitHub Repository](https://github.com/immerse-ucsb/tidy_wrangling_practice)
+
 [Anonymous Feedback Survey](https://forms.gle/SJahUuTgz6v78SCn6)
 
 ------------------------------------------------------------------------
