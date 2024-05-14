@@ -82,11 +82,14 @@ Asynchronous Activity:
 ### Day 3 (May 14, 2024): Introduction to tidy principles, data wrangling and exploration
 
 Synchronous Activity:
-
+* Slide deck [here](https://docs.google.com/presentation/d/1GD87zgZpevZMkEp_1l6xmpmjCPGBqayL8l9hFUkpd2U/edit?usp=sharing)
+* Live coding: Data wrangling [GitHub Repository](https://github.com/immerse-ucsb/tidy_wrangling_practice)
+* [Synchronous Pretraining video May 14th]()
 
 Asynchronous Activity:
 
-* Activity 1: 
+* Activity 1:
+  *   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 * Activity 2: 
 
