@@ -69,7 +69,7 @@ Asynchronous Activity:
 * Activity 2: 
   *   [Introduction to Git and Github](https://happygitwithr.com/big-picture): Just read Section 1 (Why Git? Why Github?) 
   *   Register a Github account (see Section 4)
-  *   If you’re feeling adventurous, try installing Github to Rstudio! (Don’t worry if not, we will get to it eventually). I have found  [this resource](https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit?usp=sharing) by Allison Horst to be most helpful in connecting your Github account to RStudio.
+  *   If you’re feeling adventurous, try installing Github to Rstudio! (Don’t worry if not, we will get to it eventually). I have found [this resource](https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit?usp=sharing) by Allison Horst to be most helpful in connecting your Github account to RStudio.
 
 * Activity 3 (Optional):
   *   [How to make your R Markdown pretty!](https://www.youtube.com/watch?v=v048ru5v0BE)
@@ -88,12 +88,12 @@ Synchronous Activity:
 * [Synchronous Pretraining video May 14th]()
 
 Asynchronous Activity:
-
 * Activity 1:
-  *   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
+  *   Connect your Github to your R Studio. Fork and clone today’s repository [here](https://github.com/immerse-ucsb/tidy_wrangling_practice)
+    *   I have found [this resource](https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit?usp=sharing) by Allison Horst to be most helpful in connecting your Github account to RStudio.
 
 * Activity 2: 
-
+  *   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 [Anonymous Feedback Survey]()
 
