@@ -88,6 +88,9 @@ Synchronous Activity:
 * [Synchronous Pretraining video May 14th]()
 
 Asynchronous Activity:
+
+Make sure Mplus is installed!
+
 * Activity 1:
   *   Connect your Github to your R Studio. Fork and clone today’s repository [here](https://github.com/immerse-ucsb/tidy_wrangling_practice)
     *   I have found [this resource](https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit?usp=sharing) by Allison Horst to be most helpful in connecting your Github account to RStudio.
@@ -96,7 +99,8 @@ Asynchronous Activity:
   *   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 * Activity 3:
-  *   R practice: Complete the rest of today's code along [GitHub Repository](https://github.com/immerse-ucsb/tidy_wrangling_practice)
+  *   R practice (optional): Complete the rest of today's code along [GitHub Repository](https://github.com/immerse-ucsb/tidy_wrangling_practice)
+  
 
 [Anonymous Feedback Survey](https://forms.gle/SJahUuTgz6v78SCn6)
 
