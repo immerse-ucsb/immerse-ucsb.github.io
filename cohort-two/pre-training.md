@@ -84,6 +84,7 @@ Asynchronous Activity:
 Synchronous Activity:
 * Slide deck [here](https://docs.google.com/presentation/d/1GD87zgZpevZMkEp_1l6xmpmjCPGBqayL8l9hFUkpd2U/edit?usp=sharing)
 * Live coding: Data wrangling [GitHub Repository](https://github.com/immerse-ucsb/tidy_wrangling_practice)
+    *   [Set up RStudio workspace in global options](https://docs.google.com/document/d/1xnIJ8maW_yHn-vYFba6AhULMMLplIGjJQuIM2iqmpDw/edit#heading=h.k5zbnx9cqbgj)
 * [Synchronous Pretraining video May 14th]()
 
 Asynchronous Activity:
