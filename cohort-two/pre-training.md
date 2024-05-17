@@ -109,9 +109,9 @@ Make sure Mplus is installed!
 ### Day 4 (May 17, 2024): Introduction to Mplus and Mplus Automation in R
 
 Synchronous Activity:
-    *   Slide deck [here](https://docs.google.com/presentation/d/1RRextVR8whicUqq_P2Pzf4sB1P4rn4cX2-rB1Wh49FY/edit?usp=sharing)
-    *   Live coding: Intro to MplusAutomation [GitHub Repository](https://github.com/immerse-ucsb/intro-to-mplusautomation)
-    *   [Synchronous Pretraining video May 17th]()
+* Slide deck [here](https://docs.google.com/presentation/d/1RRextVR8whicUqq_P2Pzf4sB1P4rn4cX2-rB1Wh49FY/edit?usp=sharing)
+* Live coding: Intro to MplusAutomation [GitHub Repository](https://github.com/immerse-ucsb/intro-to-mplusautomation)
+* [Synchronous Pretraining video May 17th]()
 
 Asynchronous Activity:
 
