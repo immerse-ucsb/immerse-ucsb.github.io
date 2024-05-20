@@ -85,7 +85,7 @@ Synchronous Activity:
 * Slide deck [here](https://docs.google.com/presentation/d/1GD87zgZpevZMkEp_1l6xmpmjCPGBqayL8l9hFUkpd2U/edit?usp=sharing)
 * Live coding: Data wrangling [GitHub Repository](https://github.com/immerse-ucsb/tidy_wrangling_practice)
     *   [Set up RStudio workspace in global options](https://docs.google.com/document/d/1xnIJ8maW_yHn-vYFba6AhULMMLplIGjJQuIM2iqmpDw/edit#heading=h.k5zbnx9cqbgj)
-* [Synchronous Pretraining video May 14th]()
+* [Synchronous Pretraining video May 14th](https://drive.google.com/file/d/1PROFSF-C21kM9Py_1X1_kDln0QIWWLpr/view?usp=sharing)
 
 Asynchronous Activity:
 
@@ -111,7 +111,7 @@ Make sure Mplus is installed!
 Synchronous Activity:
 * Slide deck [here](https://docs.google.com/presentation/d/1RRextVR8whicUqq_P2Pzf4sB1P4rn4cX2-rB1Wh49FY/edit?usp=sharing)
 * Live coding: Intro to MplusAutomation [GitHub Repository](https://github.com/immerse-ucsb/intro-to-mplusautomation)
-* [Synchronous Pretraining video May 17th]()
+* [Synchronous Pretraining video May 17th](https://drive.google.com/file/d/1asSVU4CRszlnMPr2xdCSjnKSmf56Qv9W/view?usp=sharing)
 
 Asynchronous Activity:
 
