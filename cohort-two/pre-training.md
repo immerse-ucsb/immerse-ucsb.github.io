@@ -131,10 +131,12 @@ Asynchronous Activity:
 Synchronous Activity:
 * Logistic regression [slides](https://immerse-ucsb.github.io/cohort-two/IMMERSE_PreTraining_Day5_LogisticRegressionInMplus.pdf)
 * Github [here](https://github.com/immerse-ucsb/logistic_regression)
+* [Synchronous Pretraining video May 21st](https://drive.google.com/file/d/1b2_HTJ4r6ibyHaCjeyMXAEEcszd-8_X0/view?usp=drive_link)
 
 * [Welcome packet](https://docs.google.com/document/d/1O5eB_pMzlSjGMgJrZhPpcfdxwpYqEGit/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true)
 
 [Anonymous Feedback Survey](https://forms.gle/Lhq76SN2ojRz8ncy5)
+
 
 ------------------------------------------------------------------------
 
