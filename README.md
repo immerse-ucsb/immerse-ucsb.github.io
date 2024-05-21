@@ -24,7 +24,7 @@ Where materials can be found for the workshop for each cohort (i.e., slide-decks
 
 ##### Introduction:
 
-1. [Why should I use `MplusAutomation`?](https://immerse-ucsb.github.io/cohort1/Why-MplusAutomation.pdf)
+1. [Why should I use `MplusAutomation`?](https://immerse-ucsb.github.io/Why-MplusAutomation.pdf)
 
 2. [How fast is `MplusAutomation`? A quick Latent Class Analysis from Start to Finish!](https://immerse-ucsb.github.io/Quick-LCA.pdf)
 
