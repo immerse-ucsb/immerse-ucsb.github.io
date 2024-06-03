@@ -1,4 +1,4 @@
-%IMMERSE In-Person Training Materials 
+IMMERSE In-Person Training Materials 
 
 ------------------------------------------------------------------------
 
