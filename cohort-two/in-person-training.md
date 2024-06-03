@@ -32,10 +32,9 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 
 ### Day 1 (June 3, 2024): Introduction to Mixture Models
-
-[Preface Slides](https://www.dropbox.com/scl/fi/y2zvfpgf0yqgxpqp44w1s/IMMERSE_Preface.pdf?rlkey=eq0hfk3naesxhons9ukmu4duf&dl=0)
-[Chapter 1 Slides](https://www.dropbox.com/scl/fi/1hprc2pbqslvfftk2g201/IMMERSE_Chapter1.pdf?rlkey=hcnp3codzjsaps4kqbvllp3zr&dl=0)
-[Chapter 2 Slides](https://www.dropbox.com/scl/fi/4v86q84x8wlj12vo46wp9/IMMERSE_Chapter2.pdf?rlkey=oet00o42mihov7hhbn68v5bal&dl=0)
+* [Preface Slides](https://www.dropbox.com/scl/fi/y2zvfpgf0yqgxpqp44w1s/IMMERSE_Preface.pdf?rlkey=eq0hfk3naesxhons9ukmu4duf&dl=0)
+* [Chapter 1 Slides](https://www.dropbox.com/scl/fi/1hprc2pbqslvfftk2g201/IMMERSE_Chapter1.pdf?rlkey=hcnp3codzjsaps4kqbvllp3zr&dl=0)
+* [Chapter 2 Slides](https://www.dropbox.com/scl/fi/4v86q84x8wlj12vo46wp9/IMMERSE_Chapter2.pdf?rlkey=oet00o42mihov7hhbn68v5bal&dl=0)
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
