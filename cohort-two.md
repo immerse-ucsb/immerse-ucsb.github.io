@@ -15,7 +15,7 @@ Where materials can be found for the workshop for Cohort Two (i.e., slide-decks,
 
 - - -
 
-## In-Person Training materials page:  
+## In-Person Training materials page: [HERE](https://immerse-ucsb.github.io/cohort-two/in-person-training)
 
 - - -
 
