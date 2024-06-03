@@ -28,6 +28,8 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 * [Parking Lot](https://docs.google.com/document/d/11-iv2C_aKuY5ncFS8uVGI_pCp7us2avJPIkWgOgZdZY/edit?usp=sharing)
 
+* [Readings](https://ucsb.box.com/s/37y6v33fu4whc39fuuky979guixs8obu)
+
 ------------------------------------------------------------------------
 
 
