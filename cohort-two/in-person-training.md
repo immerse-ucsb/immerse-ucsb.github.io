@@ -1,4 +1,4 @@
-% IMMERSE In-Person Training Materials 
+%IMMERSE In-Person Training Materials 
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Helpful Links:
 
 -   Follow us on [Twitter](https://twitter.com/IMMERSE_UCSB)!
 
-How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE In-Person Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/cohort-two/in-person-training>
+How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2024). IMMERSE In-Person Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/cohort-two/in-person-training>
 
 ------------------------------------------------------------------------
 
