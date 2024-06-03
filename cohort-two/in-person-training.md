@@ -39,14 +39,14 @@ Slides
 * <a href="https://www.dropbox.com/scl/fi/1hprc2pbqslvfftk2g201/IMMERSE_Chapter1.pdf?rlkey=hcnp3codzjsaps4kqbvllp3zr&dl=0" target="_blank">Chapter 1 Slides</a>
 * <a href="https://www.dropbox.com/scl/fi/4v86q84x8wlj12vo46wp9/IMMERSE_Chapter2.pdf?rlkey=oet00o42mihov7hhbn68v5bal&dl=0" target="_blank">Chapter 2 Slides</a>
 
-Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024): 
+Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
 1. Lab 1: LCA Scavenger hunt
 2. Lab 2: Troubleshooting MplusAutomation code
 3. Lab 3: Latent Class Analysis using MplusAutomation 
 
 
-[Anonymous Feedback Survey](https://forms.gle/YiAdpVfxoAgzgrTU7)
+<a href="https://forms.gle/YiAdpVfxoAgzgrTU7" target="_blank">Anonymous Feedback Survey</a>
 
 ------------------------------------------------------------------------
 
