@@ -41,6 +41,7 @@ Slides
 * <a href="https://www.dropbox.com/scl/fi/1hprc2pbqslvfftk2g201/IMMERSE_Chapter1.pdf?rlkey=hcnp3codzjsaps4kqbvllp3zr&dl=0" target="_blank">Chapter 1 Slides (Intro to the LC measurement model)</a>
 * <a href="https://www.dropbox.com/scl/fi/4v86q84x8wlj12vo46wp9/IMMERSE_Chapter2.pdf?rlkey=oet00o42mihov7hhbn68v5bal&dl=0" target="_blank">Chapter 2 Slides (Evaluating the measurement model)</a>
 * <a href="https://www.dropbox.com/scl/fi/wn45p608fj0ngek1rdq0y/IMMERSE_Chapter3_estimation.pdf?rlkey=409sta28imj3nvwbjemgxro2p&dl=0" target="_blank">Chapter 3 Slides (Estimation)</a>
+* <a href="https://www.dropbox.com/scl/fi/8arntprun9b1ny5h521z4/IMMERSE_Chapter4_intro_to_enumeration.pdf?rlkey=xb9n4gqbbc47itm868d52f9om&st=hf3jj3dz&dl=0" target="_blank">Chapter 4 Slides (Introduction to Enumeration)</a>
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
