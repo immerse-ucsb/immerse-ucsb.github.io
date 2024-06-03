@@ -37,8 +37,8 @@ Slides
 
 * <a href="https://www.dropbox.com/scl/fi/y2zvfpgf0yqgxpqp44w1s/IMMERSE_Preface.pdf?rlkey=eq0hfk3naesxhons9ukmu4duf&dl=0" target="_blank">Preface Slides</a>
 * <a href="https://www.dropbox.com/scl/fi/1hprc2pbqslvfftk2g201/IMMERSE_Chapter1.pdf?rlkey=hcnp3codzjsaps4kqbvllp3zr&dl=0" target="_blank">Chapter 1 Slides (Intro to the LC measurement model)</a>
-* <a href="https://www.dropbox.com/scl/fi/4v86q84x8wlj12vo46wp9/IMMERSE_Chapter2.pdf?rlkey=oet00o42mihov7hhbn68v5bal&dl=0" target="_blank">Chapter 2 Slides (Evaulating the measurement model)</a>
-* <a href="https://www.dropbox.com/scl/fi/wn45p608fj0ngek1rdq0y/IMMERSE_Chapter3_estimation.pdf?rlkey=409sta28imj3nvwbjemgxro2p&dl=0" target="_blank">Chapter 3 Slides</a>
+* <a href="https://www.dropbox.com/scl/fi/4v86q84x8wlj12vo46wp9/IMMERSE_Chapter2.pdf?rlkey=oet00o42mihov7hhbn68v5bal&dl=0" target="_blank">Chapter 2 Slides (Evaluating the measurement model)</a>
+* <a href="https://www.dropbox.com/scl/fi/wn45p608fj0ngek1rdq0y/IMMERSE_Chapter3_estimation.pdf?rlkey=409sta28imj3nvwbjemgxro2p&dl=0" target="_blank">Chapter 3 Slides (Estimation)</a>
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
