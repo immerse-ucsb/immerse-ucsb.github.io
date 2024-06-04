@@ -63,6 +63,10 @@ Slides
 * <a href="https://www.dropbox.com/scl/fi/8arntprun9b1ny5h521z4/IMMERSE_Chapter4_intro_to_enumeration.pdf?rlkey=xb9n4gqbbc47itm868d52f9om&st=hf3jj3dz&dl=0" target="_blank">Chapter 4 Slides (Introduction to Enumeration)</a>
 * <a href="https://www.dropbox.com/scl/fi/sz4wfh0kkzmh56tzm9ij7/IMMERSE_Chapter5_enumeration_cont.pdf?rlkey=ry98c1iulqd22nm02hsnmxtj0&dl=0" target="_blank">Chapter 5 Slides (Enumeration Continued)</a>
 
+Labs
+
+a href="https://forms.gle/zRUQKuhhJjdgiMuH8" target="_blank">Anonymous Feedback Survey</a>
+
 ------------------------------------------------------------------------
 
 ### Day 3 (June 5, 2024)
