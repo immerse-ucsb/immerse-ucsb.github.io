@@ -65,7 +65,7 @@ Slides
 
 Labs
 
-a href="https://forms.gle/zRUQKuhhJjdgiMuH8" target="_blank">Anonymous Feedback Survey</a>
+<a href="https://forms.gle/zRUQKuhhJjdgiMuH8" target="_blank">Anonymous Feedback Survey</a>
 
 ------------------------------------------------------------------------
 
