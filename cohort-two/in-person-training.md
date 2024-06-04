@@ -66,6 +66,9 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 2. Lab 2: Troubleshooting MplusAutomation code
 3. Lab 3: Latent Class Analysis using MplusAutomation 
 
+Working Lunch
+* <a href="https://docs.google.com/document/d/1ExKiCgDDVoRnyzHcxi-ksjATvy4lH6ki/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true">Identity Map</a>
+
 <a href="https://forms.gle/zRUQKuhhJjdgiMuH8" target="_blank">Anonymous Feedback Survey</a>
 
 ------------------------------------------------------------------------
