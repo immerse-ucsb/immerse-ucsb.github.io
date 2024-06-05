@@ -50,7 +50,7 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 1. Lab 1: LCA Scavenger hunt
 
 
-<a href="https://forms.gle/YiAdpVfxoAgzgrTU7" target="_blank">Anonymous Feedback Survey</a>
+<a href="https://forms.gle/YiAdpVfxoAgzgrTU7" target="_blank">Anonymous Feedback Survey(Day 1)</a>
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,6 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 Slides
 * <a href="https://www.dropbox.com/scl/fi/wn45p608fj0ngek1rdq0y/IMMERSE_Chapter3_estimation.pdf?rlkey=409sta28imj3nvwbjemgxro2p&dl=0" target="_blank">Chapter 3 Slides (Estimation)</a>
 * <a href="https://www.dropbox.com/scl/fi/8arntprun9b1ny5h521z4/IMMERSE_Chapter4_intro_to_enumeration.pdf?rlkey=xb9n4gqbbc47itm868d52f9om&st=hf3jj3dz&dl=0" target="_blank">Chapter 4 Slides (Introduction to Enumeration)</a>
-* <a href="https://www.dropbox.com/scl/fi/sz4wfh0kkzmh56tzm9ij7/IMMERSE_Chapter5_enumeration_cont.pdf?rlkey=ry98c1iulqd22nm02hsnmxtj0&dl=0" target="_blank">Chapter 5 Slides (Enumeration Continued)</a>
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
@@ -69,11 +68,20 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 Working Lunch
 * <a href="https://docs.google.com/document/d/1ExKiCgDDVoRnyzHcxi-ksjATvy4lH6ki/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true">Identity Map</a>
 
-<a href="https://forms.gle/zRUQKuhhJjdgiMuH8" target="_blank">Anonymous Feedback Survey</a>
+<a href="https://forms.gle/zRUQKuhhJjdgiMuH8" target="_blank">Anonymous Feedback Survey(Day 2)</a>
 
 ------------------------------------------------------------------------
 
 ### Day 3 (June 5, 2024)
+
+Slides
+* <a href="https://www.dropbox.com/scl/fi/sz4wfh0kkzmh56tzm9ij7/IMMERSE_Chapter5_enumeration_cont.pdf?rlkey=ry98c1iulqd22nm02hsnmxtj0&dl=0" target="_blank">Chapter 5 Slides (Enumeration Continued)</a>
+
+Labs
+
+Working Lunch
+
+<a href="https://forms.gle/Koioqd3jUedgC6uA6" target="_blank">Anonymous Feedback Surve (Day 3)</a>
  
 ------------------------------------------------------------------------
 
