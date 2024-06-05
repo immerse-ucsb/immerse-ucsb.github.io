@@ -77,8 +77,10 @@ Working Lunch
 Slides
 * <a href="https://www.dropbox.com/scl/fi/sz4wfh0kkzmh56tzm9ij7/IMMERSE_Chapter5_enumeration_cont.pdf?rlkey=ry98c1iulqd22nm02hsnmxtj0&dl=0" target="_blank">Chapter 5 Slides (Enumeration Continued)</a>
 
-Labs
+Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
+4. Lab 3: Latent Class Analysis using MplusAutomation Continued
+5. Lab 4: Latent Class Analysis with Auxiliary Variables (Three-Step and Automatic)
 Working Lunch
 
 <a href="https://forms.gle/Koioqd3jUedgC6uA6" target="_blank">Anonymous Feedback Surve (Day 3)</a>
