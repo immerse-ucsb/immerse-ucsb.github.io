@@ -79,9 +79,9 @@ Working Lunch
 Slides
 * <a href="https://www.dropbox.com/scl/fi/sz4wfh0kkzmh56tzm9ij7/IMMERSE_Chapter5_enumeration_cont.pdf?rlkey=ry98c1iulqd22nm02hsnmxtj0&dl=0" target="_blank">Chapter 5 Slides (Enumeration Continued)</a>
 
-* <a href="https://www.dropbox.com/scl/fi/gkifb8jnz1fi04p3efiki/IMMERSE_Chapter6_intro_auxliary.pdf?rlkey=d2liutnt6ccfw03bjo2h8m0jw&dl=0" target="_blank">Chapter 6 Slides (Introduction to Auxliary Variables)</a>
+* <a href="https://www.dropbox.com/scl/fi/gkifb8jnz1fi04p3efiki/IMMERSE_Chapter6_intro_auxliary.pdf?rlkey=d2liutnt6ccfw03bjo2h8m0jw&dl=0" target="_blank">Chapter 6 Slides (Introduction to Auxiliary  Variables)</a>
 
-* <a href="https://www.dropbox.com/scl/fi/ipuiu0khlqg9qwwhnhcmm/IMMERSE_Chapter7_aux_cov.pptx?rlkey=hriss93ylohne84m9e54hdp1j&dl=0" target="_blank">Chapter 7 Slides ( Auxliary Variables: Covariates)</a>
+* <a href="https://www.dropbox.com/scl/fi/ipuiu0khlqg9qwwhnhcmm/IMMERSE_Chapter7_aux_cov.pptx?rlkey=hriss93ylohne84m9e54hdp1j&dl=0" target="_blank">Chapter 7 Slides (Auxiliary Variables: Covariates)</a>
 
 
 Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
