@@ -83,9 +83,8 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 
 4. Lab 3: Latent Class Analysis using MplusAutomation Continued
 5. Lab 4: Latent Class Analysis with Auxiliary Variables (Three-Step Manual and Automatic)
-Working Lunch
 
-<a href="https://forms.gle/Koioqd3jUedgC6uA6" target="_blank">Anonymous Feedback Surve (Day 3)</a>
+<a href="https://forms.gle/Koioqd3jUedgC6uA6" target="_blank">Anonymous Feedback Survey (Day 3)</a>
  
 ------------------------------------------------------------------------
 
