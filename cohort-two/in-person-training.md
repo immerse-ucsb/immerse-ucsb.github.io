@@ -79,13 +79,18 @@ Working Lunch
 Slides
 * <a href="https://www.dropbox.com/scl/fi/sz4wfh0kkzmh56tzm9ij7/IMMERSE_Chapter5_enumeration_cont.pdf?rlkey=ry98c1iulqd22nm02hsnmxtj0&dl=0" target="_blank">Chapter 5 Slides (Enumeration Continued)</a>
 
+* <a href="https://www.dropbox.com/scl/fi/gkifb8jnz1fi04p3efiki/IMMERSE_Chapter6_intro_auxliary.pdf?rlkey=d2liutnt6ccfw03bjo2h8m0jw&dl=0" target="_blank">Chapter 6 Slides (Introduction to Auxiliary Variables)</a>
+
+* <a href="https://www.dropbox.com/scl/fi/y6vefharil44s1itzqwav/IMMERSE_Chapter7_aux_cov.pdf?rlkey=w3sskw46ev2inhqm2h55b4ax8&dl=0" target="_blank">Chapter 7 Slides (Auxiliary Variables: Covariates)</a>
+
+
 Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
 4. Lab 3: Latent Class Analysis using MplusAutomation Continued
 5. Lab 4: Latent Class Analysis with Auxiliary Variables (Three-Step Manual and Automatic)
 
 <a href="https://forms.gle/Koioqd3jUedgC6uA6" target="_blank">Anonymous Feedback Survey (Day 3)</a>
- 
+
 ------------------------------------------------------------------------
 
 ### Day 4 (June 6, 2024)
