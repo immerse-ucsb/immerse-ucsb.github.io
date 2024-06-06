@@ -111,6 +111,14 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 
 <a href="https://forms.gle/b3Mme5tTLkkUCxL6A" target="_blank">Anonymous Feedback Survey (Day 4)</a>
 
+
+* [Zotero](https://www.zotero.org/groups/5420622/lca_immerse/): Create an account and click join. 
+
+Below are some helpful resources to get you started with Zotero:
+  * Quick start guide
+  * Using Group Libraries
+Feel free to contribute by adding any relevant papers or resources that you come across in your own research. 
+
 ------------------------------------------------------------------------
 
 Helpful Links:
