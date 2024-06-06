@@ -100,11 +100,12 @@ Slides
 
 * <a href="https://www.dropbox.com/scl/fi/ha8vtsfiboso3mdkx7p5m/IMMERSE_Chapter9_LPA.pdf?rlkey=m3cc9lf7wxp2u70jjsd9oc3sl&dl=0">Chapter 9 Slides (Introduction to LPA)</a>
 
+* <a href="https://www.dropbox.com/scl/fi/hziemtjed76w3e0cu5xh0/IMMERSE_Chapter10_extensions.pptx?rlkey=bco4d5514nr6zv12kjxy4c6sk&st=anqlmyma&dl=0">Chapter 10 Slides (Extensions)</a>
 
-Labs
+Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
+6. Lab 4: Latent Class Analysis with Auxiliary Variables Continued (Three-Step Manual and Automatic)
 
- 
 ------------------------------------------------------------------------
 
 Helpful Links:
