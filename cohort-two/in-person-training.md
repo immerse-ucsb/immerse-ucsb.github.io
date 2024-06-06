@@ -106,6 +106,7 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 
 6. Lab 4: Latent Class Analysis with Auxiliary Variables Continued (Three-Step Manual and Automatic)
 
+* <a href="https://docs.google.com/presentation/d/14IPEp5G3DUrx45Nr6A5S3k4HIW1BoAgOd0higu_hqmE/edit?usp=drive_link">Goals (Google Slides)</a>
 ------------------------------------------------------------------------
 
 Helpful Links:
