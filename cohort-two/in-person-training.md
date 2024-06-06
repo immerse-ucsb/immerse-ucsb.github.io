@@ -102,17 +102,15 @@ Slides
 
 * <a href="https://www.dropbox.com/scl/fi/hziemtjed76w3e0cu5xh0/IMMERSE_Chapter10_extensions.pptx?rlkey=bco4d5514nr6zv12kjxy4c6sk&st=anqlmyma&dl=0">Chapter 10 Slides (Extensions)</a>
 
+* <a href="https://docs.google.com/presentation/d/14IPEp5G3DUrx45Nr6A5S3k4HIW1BoAgOd0higu_hqmE/edit?usp=drive_link">Goals (Google Slides)</a>
+
 Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)): 
 
 6. Lab 4: Latent Class Analysis with Auxiliary Variables Continued (Three-Step Manual and Automatic)
 
-<<<<<<< HEAD
 
 <a href="https://forms.gle/b3Mme5tTLkkUCxL6A" target="_blank">Anonymous Feedback Survey (Day 4)</a>
 
-=======
-* <a href="https://docs.google.com/presentation/d/14IPEp5G3DUrx45Nr6A5S3k4HIW1BoAgOd0higu_hqmE/edit?usp=drive_link">Goals (Google Slides)</a>
->>>>>>> 8783277655b3db84e0caf121b5c52c920511ae2e
 ------------------------------------------------------------------------
 
 Helpful Links:
