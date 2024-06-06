@@ -94,6 +94,16 @@ Labs ([Github](https://github.com/immerse-ucsb/in-person-training-2024)):
 ------------------------------------------------------------------------
 
 ### Day 4 (June 6, 2024)
+
+Slides
+* <a href="https://www.dropbox.com/scl/fi/v6tk72avyanleo5eeq5mw/IMMERSE_Chapter8_distals.pdf?rlkey=ptdbu5m23yogbpazavq0utgr5&dl=0"_blank">Chapter 8 Slides (Distal Outcomes)</a>
+
+* <a href="https://www.dropbox.com/scl/fi/ha8vtsfiboso3mdkx7p5m/IMMERSE_Chapter9_LPA.pdf?rlkey=m3cc9lf7wxp2u70jjsd9oc3sl&dl=0">Chapter 9 Slides (Introduction to LPA)</a>
+
+
+Labs
+
+
  
 ------------------------------------------------------------------------
 
