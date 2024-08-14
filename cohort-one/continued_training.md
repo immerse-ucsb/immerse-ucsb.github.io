@@ -76,11 +76,6 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
      - [Using QuantCrit to Advance an Anti-Racist Developmental Sciencce: Application to Mixture Modeling](https://journals.sagepub.com/doi/abs/10.1177/07435584211028229)
      - [Video Recording](https://drive.google.com/file/d/10nukmkwc6OEq57xi1dV_HMCvr-gDML0v/view?usp=sharing)     
 
-### Friday, May 10, 2024
-
--   Speaker/Topic:
-
--   Materials:
 
 ------------------------------------------------------------------------
 
