@@ -19,7 +19,7 @@ Where materials can be found for the workshop for Cohort Two (i.e., slide-decks,
 
 - - -
 
-## Ongoing training materials page:  [HERE](https://immerse-ucsb.github.io/cohort-two/continued-training)
+## Ongoing training materials page:  [HERE](https://immerse-ucsb.github.io/cohort-two/continued_training)
 
 - - -
 
