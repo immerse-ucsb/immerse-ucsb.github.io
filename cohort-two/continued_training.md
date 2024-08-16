@@ -18,55 +18,37 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ------------------------------------------------------------------------
 
-### Friday, October 13, 2023
+### Friday, August 23 , 2024
 
--   Speaker/Topic: 
+-   Speaker/Topic: Sara Suzuki/QuantCrit with Mixtures
+
+-   Materials:
+    -   [Slides](https://ucsb.box.com/s/ccv77x2kzpe5wkonvl0nf21pxj2ahucx)
+    -   [Article_1](https://drive.google.com/file/d/1ONDqCIM8Xf_33eN5zfIShMFcTp-dSZ5p/view)
+    -   [Article_2](https://www.sciencedirect.com/science/article/pii/S2666497623000528)
+    -   [Video Recording]()
+
+### Friday, September 6, 2024
+
+-   Speaker/Topic: Dina and Karen/Joint Occurrence 
 
 -   Materials:
     -   [Slides]()
     -   [Github Repository]()
     -   [Video Recording]()
 
-### Friday, November 17, 2023
+### Friday, September 20, 2024
 
--   Speaker/Topic: 
-
--   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
-    -   [Video Recording]()
-
-### Friday, December 8, 2023
-
--   Speaker/Topic: 
+-   Speaker/Topic: Danielle Harlow/Qualitative and Mixtures (Tentative)
 
 -   Materials:
     -   [Slides]()
     -   [Github Repository]()
     -   [Video Recording]()
 
-### Friday, January 19, 2024
+### Friday, October 4, 2024
 
--   Speaker/Topic: 
-
--   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
-    -   [Video Recording]()
-
-
-### Friday, February 9, 2024
-
--   Speaker/Topic: 
-
--   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
-    -   [Video Recording]()
-
-### Friday, March 8, 2024
-
--   Speaker/Topic: 
+-   Speaker/Topic: Katherine/ LPA (Tentative)
 
 -   Materials:
     -   [Slides]()
@@ -74,9 +56,28 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
     -   [Video Recording]()
 
 
-### Friday, April 26, 2024
+### Friday, October 18, 2024
 
--   Speaker/Topic: 
+-   Speaker/Topic: Amy Bellmore/Publishing Mixtures (Tentative)
+
+-   Materials:
+    -   [Slides]()
+    -   [Github Repository]()
+    -   [Video Recording]()
+
+### Friday, November 1, 2024
+
+-   Speaker/Topic: Karen/Latent Transition Analysis (Tentative)
+
+-   Materials:
+    -   [Slides]()
+    -   [Github Repository]()
+    -   [Video Recording]()
+
+
+### Friday, November 15, 2024
+
+-   Speaker/Topic: Ryan Grimm/Applications of LTA in interventions (Tentative)
 
 -   Materials:
     -   [Slides]()
@@ -84,9 +85,18 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
     -   [Video Recording]()
    
 
-### Friday, May 10, 2024
+### Friday, November 29, 2024
 
--   Speaker/Topic: 
+-   Speaker/Topic: Katherine/Multilevel Mixture Models or Second Order (Tentative)
+
+-   Materials:
+    -   [Slides]()
+    -   [Github Repository]()
+    -   [Video Recording]()
+      
+### Friday, December 6, 2024
+
+-   Speaker/Topic: Rebeca Rios/Latent Class Growth Analysis (Tentative)
 
 -   Materials:
     -   [Slides]()
