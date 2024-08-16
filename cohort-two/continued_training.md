@@ -20,7 +20,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 ### Friday, August 23 , 2024
 
--   Speaker/Topic: Sara Suzuki/QuantCrit with Mixtures
+-   Speaker/Topic: [Sara Suzuki](https://circle.tufts.edu/index.php/people/sara-suzuki)/QuantCrit with Mixtures
 
 -   Materials:
     -   [Slides](https://ucsb.box.com/s/ccv77x2kzpe5wkonvl0nf21pxj2ahucx)
