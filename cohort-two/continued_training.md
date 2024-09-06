@@ -34,7 +34,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 -   Materials:
     -   [Slides](https://docs.google.com/presentation/d/1YegaJBH3EPTnnUTRfbYIj6GIKBjDWdELLIdIgDgvn9E/edit?usp=sharing)
-    -   [Video Recording]()
+    -   [Video Recording](https://ucsb.box.com/s/sjk0b41nc2mxoag9lfv3yv7r0ytctoq3)
 
 ### Friday, September 20, 2024
 
