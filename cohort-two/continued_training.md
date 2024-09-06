@@ -33,8 +33,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic: Dina and Karen/Joint Occurrence 
 
 -   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
+    -   [Slides](https://docs.google.com/presentation/d/1YegaJBH3EPTnnUTRfbYIj6GIKBjDWdELLIdIgDgvn9E/edit?usp=sharing)
     -   [Video Recording]()
 
 ### Friday, September 20, 2024
