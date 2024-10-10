@@ -48,10 +48,6 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 -   Speaker/Topic: Netasha Pizano/How to report findings using mixture modeling
 
--   Materials:
-    -   [Slides]()
-
-
 ### Friday, October 18, 2024
 
 -   Speaker/Topic: Amy Bellmore/Publishing Mixtures (Tentative)
