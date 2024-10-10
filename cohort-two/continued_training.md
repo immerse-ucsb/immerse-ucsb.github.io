@@ -41,18 +41,15 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic: Danielle Harlow/Qualitative and Mixtures (Tentative)
 
 -   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
-    -   [Video Recording]()
+    -   [Slides](https://docs.google.com/presentation/d/1kmjXHkCHEXowaUV9GAsedK7NTpyvl1Pb/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true)
+    -   [Video Recording](https://drive.google.com/file/d/1YeLM3AK9wb348ZxNi00A1Ga4hYeCK-mm/view?usp=drive_link)
 
 ### Friday, October 4, 2024
 
--   Speaker/Topic: Katherine/ LPA (Tentative)
+-   Speaker/Topic: Netasha Pizano/How to report findings using mixture modeling
 
 -   Materials:
     -   [Slides]()
-    -   [Github Repository]()
-    -   [Video Recording]()
 
 
 ### Friday, October 18, 2024
