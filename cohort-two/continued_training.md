@@ -53,13 +53,12 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic: Amy Bellmore/Publishing Mixtures (Tentative)
 
 -   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
-    -   [Video Recording]()
+    -   [Questions](https://docs.google.com/document/d/1awggUVb4ZI6BvLzksftKZ1Q7kpNeNbJ6gf6Rpgx1luA/edit?usp=sharing)
+    -   [Video Recording](https://drive.google.com/file/d/1QoS1tayIzxfnOMgU2H7nncOlg8SzsKyJ/view?usp=sharing)
 
 ### Friday, November 1, 2024
 
--   Speaker/Topic: Karen/Latent Transition Analysis (Tentative)
+-   Speaker/Topic: Karen & Dina /Latent Profile Analysis 
 
 -   Materials:
     -   [Slides]()
