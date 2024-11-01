@@ -61,8 +61,8 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic: Karen & Dina /Latent Profile Analysis 
 
 -   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
+    -   [Slides](https://docs.google.com/presentation/d/1_VALvA5-SFp_PbFQxhkDGBhS6OMcxAGMGDqNoZzWgDk/edit?usp=sharing)
+    -   [Github Repository](https://github.com/immerse-ucsb/lpa_enum)
     -   [Video Recording]()
 
 
