@@ -64,7 +64,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
     -   [Slides](https://docs.google.com/presentation/d/1_VALvA5-SFp_PbFQxhkDGBhS6OMcxAGMGDqNoZzWgDk/edit?usp=sharing)
     -   [Github Repository](https://github.com/immerse-ucsb/lpa_enum)
     -   [LPA codewalkthrough](https://immerse-ucsb.github.io/cohort-two/lpa_enum.html)
-    -   [Video Recording]()
+    -   [Video Recording](https://drive.google.com/file/d/182MQTWfhxc8mnAWyxFka2uSB_8uQkKB1/view?usp=sharing)
 
 
 ### Friday, November 15, 2024
