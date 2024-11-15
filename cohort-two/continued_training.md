@@ -72,8 +72,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Speaker/Topic: Ryan Grimm/Applications of LTA in interventions (Tentative)
 
 -   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
+    -   [Slides](https://docs.google.com/presentation/d/1ZkhNGumNVY7iRQ56GoGG-LEAaRHTV2Ik/edit?usp=sharing&ouid=106067280936970826764&rtpof=true&sd=true)
     -   [Video Recording]()
    
 
