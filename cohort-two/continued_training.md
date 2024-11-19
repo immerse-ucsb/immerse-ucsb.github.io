@@ -73,7 +73,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 
 -   Materials:
     -   [Slides](https://drive.google.com/file/d/1e1jgQbouG9S-ro1tcuG3S7mDQaOkvHOr/view?usp=drive_link)
-    -   [Video Recording]()
+    -   [Video Recording](https://drive.google.com/file/d/1Gwp2qQ8uZw9bzVW-8MM1EqtCjt22aaSn/view?usp=sharing)
    
 
 ### Friday, November 29, 2024
