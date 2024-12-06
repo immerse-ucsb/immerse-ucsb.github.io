@@ -76,22 +76,13 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
     -   [Video Recording](https://drive.google.com/file/d/1Gwp2qQ8uZw9bzVW-8MM1EqtCjt22aaSn/view?usp=sharing)
    
 
-### Friday, November 29, 2024
-
--   Speaker/Topic: Katherine/Multilevel Mixture Models or Second Order (Tentative)
-
--   Materials:
-    -   [Slides]()
-    -   [Github Repository]()
-    -   [Video Recording]()
-      
 ### Friday, December 6, 2024
 
 -   Speaker/Topic: Introduction to Growth Mixture Modeling (GMM)
 
 -   Materials:
     -   [Slides](https://drive.google.com/file/d/1vq1S3jMECek0WGqzalAYOgRbHpUtP-97/view?usp=sharing)
-    -   [Github Repository]()
+    -   [Github Repository](https://github.com/immerse-ucsb/growth-mixtures)
     -   [Video Recording]()
 
 ------------------------------------------------------------------------
