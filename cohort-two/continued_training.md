@@ -87,10 +87,10 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
       
 ### Friday, December 6, 2024
 
--   Speaker/Topic: Rebeca Rios/Latent Class Growth Analysis (Tentative)
+-   Speaker/Topic: Introduction to Growth Mixture Modeling (GMM)
 
 -   Materials:
-    -   [Slides]()
+    -   [Slides](https://drive.google.com/file/d/1vq1S3jMECek0WGqzalAYOgRbHpUtP-97/view?usp=sharing)
     -   [Github Repository]()
     -   [Video Recording]()
 
