@@ -83,7 +83,7 @@ The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and
 -   Materials:
     -   [Slides](https://drive.google.com/file/d/1vq1S3jMECek0WGqzalAYOgRbHpUtP-97/view?usp=sharing)
     -   [Github Repository](https://github.com/immerse-ucsb/growth-mixtures)
-    -   [Video Recording]()
+    -   [Video Recording](https://drive.google.com/file/d/11doyyQhGdeHzVJC6gApEfAyo1oSAv8x3/view?usp=share_link)
 
 ------------------------------------------------------------------------
 
